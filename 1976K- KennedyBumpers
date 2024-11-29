@@ -4842,7 +4842,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 91,
             "state": 260,
-            "state_multiplier": 1
+            "state_multiplier": 1.1
         }
     },
     {
@@ -4851,7 +4851,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 91,
             "state": 261,
-            "state_multiplier": 1
+            "state_multiplier": 1.1
         }
     },
     {
@@ -4896,7 +4896,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 91,
             "state": 266,
-            "state_multiplier": 1
+            "state_multiplier": 0.985
         }
     },
     {
@@ -5103,7 +5103,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 92,
             "state": 238,
-            "state_multiplier": 0.775
+            "state_multiplier": 0.6985
         }
     },
     {
@@ -5301,7 +5301,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 92,
             "state": 260,
-            "state_multiplier": 0.795
+            "state_multiplier": 0.765
         }
     },
     {
@@ -5310,7 +5310,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 92,
             "state": 261,
-            "state_multiplier": 0.725
+            "state_multiplier": 0.7
         }
     },
     {
@@ -5355,7 +5355,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 92,
             "state": 266,
-            "state_multiplier": 0.695
+            "state_multiplier": 0.815
         }
     },
     {
@@ -5382,7 +5382,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 92,
             "state": 269,
-            "state_multiplier": 0.67
+            "state_multiplier": 0.73
         }
     },
     {
