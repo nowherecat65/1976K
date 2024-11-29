@@ -10,6 +10,15 @@ campaignTrail_temp.questions_json = [
     },
     {
         "model": "campaign_trail.question",
+        "pk": 42233,
+        "fields": {
+            "priority": 0,
+            "description": "(JANUARY 1976) Two and a half months after announcing your candidacy your campaign staff has still largely shielded you from interviews or anything perceived as hard-hitting. While the strategy has been to maintain your lead, with the contests approaching, there’s growing concern you may be taking the nomination for granted. Should we be shifting course? ",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
         "pk": 422,
         "fields": {
             "priority": 0,
@@ -426,6 +435,30 @@ campaignTrail_temp.answers_json = [
         "fields": {
             "question": 422151,
             "description": "I don't see any need to spend more time in Iowa than necessary. The farms, the county fairs... I believe we'd be better served focusing our time and money on New Hampshire, where we have a strong lead, and on the later contests."
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 3531212,
+        "fields": {
+            "question": 42233,
+            "description": "I think we'd be well served by making our rounds with the print press and granting interviews to whatever magazines are eager to cover the campaign. They're already talking about us on television- we don't need to devote more time to that."
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 3531213,
+        "fields": {
+            "question": 42233,
+            "description": "I think it’s time we take on some of those primetime TV interviews. I know, I know, they’ll want to bring up Jack or the... accident. But the sooner we do it, the better. I’m ready for this. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 3531214,
+        "fields": {
+            "question": 42233,
+            "description": "I want to stick to our schedule. Sure, we can take some questions from the press or give a few interviews, but my overwhelming concern remains meeting with, connecting with, and earning the trust and support of the American voter. "
         }
     },
     {
@@ -6434,6 +6467,66 @@ campaignTrail_temp.answer_score_global_json = [
     },
     {
         "model": "campaign_trail.answer_score_global",
+        "pk": 1329,
+        "fields": {
+            "answer": 3531212,
+            "candidate": 91,
+            "affected_candidate": 91,
+            "global_multiplier": -0.0599121126115
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 1329,
+        "fields": {
+            "answer": 3531213,
+            "candidate": 91,
+            "affected_candidate": 91,
+            "global_multiplier": -0.0555121126115
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 1329,
+        "fields": {
+            "answer": 3531214,
+            "candidate": 91,
+            "affected_candidate": 91,
+            "global_multiplier": -0.0575121126115
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 1329,
+        "fields": {
+            "answer": 3531214,
+            "candidate": 91,
+            "affected_candidate": 92,
+            "global_multiplier": 0.008575121126115
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 1329,
+        "fields": {
+            "answer": 3531215,
+            "candidate": 91,
+            "affected_candidate": 91,
+            "global_multiplier": -0.0695121126115
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 1329,
+        "fields": {
+            "answer": 3531215,
+            "candidate": 91,
+            "affected_candidate": 92,
+            "global_multiplier": 0.02998991218575121126115
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
         "pk": 1330,
         "fields": {
             "answer": 3518,
@@ -7783,6 +7876,46 @@ campaignTrail_temp.answer_score_issue_json = [
             "issue": 33,
             "issue_score": 0.15,
             "issue_importance": 3.3
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1072,
+        "fields": {
+            "answer": 3531212,
+            "issue": 33,
+            "issue_score": 0.1,
+            "issue_importance": 2.3
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1072,
+        "fields": {
+            "answer": 3531213,
+            "issue": 33,
+            "issue_score": -0.05,
+            "issue_importance": 2.75
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1072,
+        "fields": {
+            "answer": 3531215,
+            "issue": 33,
+            "issue_score": -0.05,
+            "issue_importance": 2.75
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1072,
+        "fields": {
+            "answer": 3531214,
+            "issue": 33,
+            "issue_score": 0.31,
+            "issue_importance": 2.3
         }
     },
     {
@@ -13137,6 +13270,42 @@ campaignTrail_temp.answer_feedback_json = [
             "answer": 35312,
             "candidate": 91,
             "answer_feedback": "This may be a bit unambitious, but polls show you are noticeably further behind in Iowa than in New Hampshire, the rest of New England, or even states like Illinois or Florida."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 1021,
+        "fields": {
+            "answer": 3531212,
+            "candidate": 91,
+            "answer_feedback": "Well, you already have a solid relationship with the print press, and while a few more favorable stories with your name will certainly help, this approach is essentially the same as what you’ve already been doing. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 1021,
+        "fields": {
+            "answer": 3531213,
+            "candidate": 91,
+            "answer_feedback": "Fair enough. You’ve done interviews with all the major networks, but the one that makes headlines is with Roger Mudd of CBS. When asked why you want to be president, you answer simply and compellingly, highlighting your desire to restore trust, substance, and hope to the American spirit."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 1021,
+        "fields": {
+            "answer": 3531215,
+            "candidate": 91,
+            "answer_feedback": "Fair enough. You’ve done interviews with all the major networks, but the one that makes headlines is with Roger Mudd of CBS. When asked why you want to be president, you awkwardly fumble the question, pointing vaguely to the natural resources of the country. This is going to hurt you in the polls, sir. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 1021,
+        "fields": {
+            "answer": 3531214,
+            "candidate": 91,
+            "answer_feedback": "You're riding the wave of strong poll numbers and your comfort on stage, but keep in mind, the press isn’t going to stop clamoring for an interview. The noise will only get louder and more insistent until you finally give them one. "
         }
     },
     {
