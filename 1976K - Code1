@@ -585,7 +585,6 @@ function addBunnyhopDropdown() {
             var colourForm = document.createElement("form");
             colourForm.name = "colour_selection";
             var colourHeader = document.createElement("h3");
-            colourHeader.textContent = "Enable alternate colour scheme?";
             colourForm.appendChild(colourHeader);
             var colourCheckbox = document.createElement("input");
             colourCheckbox.type = "checkbox";
