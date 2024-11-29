@@ -30,7 +30,7 @@ campaignTrail_temp.election_json = [
         "fields": {
             "year": 1976,
             "summary": "<p>Things are not hot as the nation enters its bicentennial. The fallout from the Watergate scandal has left an indelible mark on the Presidency. Despite this, the nation seems poised to elect insiders in their respective parties.<p><ul><li>Gerald Ford is the incumbent President but starts with a massive deficit in the polls due to the national situation.<li>Senator Henry Jackson is Ford’s challenger in this election. He won his party's nomination emphasizing his experiences and credentials.</p>",
-            "image_url": "https://i.imgur.com/nQApAOT.png",
+            "image_url": "https://i.imgur.com/qMGWwY8.jpeg",
             "winning_electoral_vote_number": 270,
             "advisor_url": "https://i.imgur.com/VvPbS1m.png",
             "recommended_reading": "links break my recommended reading sorry<br><br><br>Hey guys, Jimbo here. Thanks for playing what I believe to be my tenth mod, I've made so many I've lost count. This mod couldn't have been made without the know-how of Zim, and the coding expertise of Danxv, Nina, and Astrohunch, of whom I've shamelessly stolen the 1964DL and 1876 code from. Sorry.<p><p><img src='https://i.imgur.com/SjpYD8a.jpeg' width='100px'<p><p>",
@@ -481,7 +481,7 @@ campaignTrail_temp.running_mate_json = [
     }
 ]
 
-campaignTrail_temp.credits = "WNDIUA (Jimbo) and Zim, Color Changer by Nina"
+campaignTrail_temp.credits = ".theanswerisme"
 
 campaignTrail_temp.opponents_default_json = [
     {
