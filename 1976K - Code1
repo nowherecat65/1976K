@@ -582,10 +582,6 @@ function addBunnyhopDropdown() {
                 campaignTrail_temp.global_parameter_json[0].fields.question_count = this.value;
             });
 
-            var colourForm = document.createElement("form");
-            colourForm.name = "colour_selection";
-            var colourHeader = document.createElement("h3");
-            colourForm.appendChild(colourHeader);
             var colourCheckbox = document.createElement("input");
             colourCheckbox.type = "checkbox";
             colourCheckbox.id = "colour";
