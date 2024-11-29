@@ -13988,11 +13988,6 @@ campaignTrail_temp.answer_feedback_json = [
     }
 ]
 
-
-
-campaignTrail_temp.jet_data = [{}
-]
-
 endingPicker = (out, totv, aa, quickstats) => {
     //out = "win", "loss", or "tie" for your candidate
            //totv = total votes in entire election
