@@ -206,29 +206,6 @@ campaignTrail_temp.candidate_json = [
     },
     {
         "model": "campaign_trail.candidate",
-        "pk": 98,
-        "fields": {
-            "first_name": "Adlai",
-            "last_name": "Stevenson III",
-            "election": 10,
-            "party": "Democrat",
-            "state": "Illinois",
-            "priority": 8,
-            "description": "''",
-            "color_hex": "#0000FF",
-            "secondary_color_hex": "#90C0FF",
-            "is_active": 0,
-            "image_url": "https://i.imgur.com/4DLWnGm.png",
-            "electoral_victory_message": "''",
-            "electoral_loss_message": "''",
-            "no_electoral_majority_message": "''",
-            "description_as_running_mate": "<p>Adlai Stevenson III is one of the senators from Illinois and is something of political royalty there. He remained out of the primaries this year and would soften your stances on a lot of issues, which would be good or bad depending on your strategy. Many within the Democratic Party are pushing for Stevenson III's inclusion on the ticket as a way to balance out your more conservative viewpoints.<p>Compared to your service, however, Stevenson III comes off as very new, and his rather quiet attitude would further compound this issue. Illinois would be in play should he be picked.",
-            "candidate_score": 0,
-            "running_mate": true
-        }
-    },
-    {
-        "model": "campaign_trail.candidate",
         "pk": 99,
         "fields": {
             "first_name": "Bob",
@@ -364,29 +341,6 @@ campaignTrail_temp.candidate_json = [
             "candidate_score": 0,
             "running_mate": true
         }
-    },
-    {
-        "model": "campaign_trail.candidate",
-        "pk": 50000,
-        "fields": {
-            "first_name": "Augustus",
-            "last_name": "Hawkins",
-            "election": 10,
-            "party": "Democrat",
-            "state": "California",
-            "priority": 1,
-            "description": "<p>Put description here</p>",
-            "color_hex": "#0000FF",
-            "secondary_color_hex": null,
-            "is_active": 0,
-            "image_url": "https://i.imgur.com/1PS0dLO.png",
-            "electoral_victory_message": "This guy wins!",
-            "electoral_loss_message": "This guy loses!",
-            "no_electoral_majority_message": "We all win?",
-            "description_as_running_mate": "<p>Augustus Hawkins is a congressman from California, having served since 1963. Hawkins would no doubt make history as the first African-American on a national party's ticket, which could energize mainstream liberal support for your candidacy. He has been a key advocate in fighting racist discrimination in practices such as construction.<p>Hawkins would most likely create more controversy than it's worth, as a black man on a national ticket would destroy the ticket's chances in the south, even if Hawkins looks more light-skinned. However, if your goal is to move the Democratic party away from the old traditional ways of the South, then go ahead. He wouldn't offer any geographic balance either.",
-            "candidate_score": 1,
-            "running_mate": true
-        }
     }
 ]
 
@@ -449,14 +403,6 @@ campaignTrail_temp.running_mate_json = [
     },
     {
         "model": "campaign_trail.running_mate",
-        "pk": 61,
-        "fields": {
-            "candidate": 91,
-            "running_mate": 98
-        }
-    },
-    {
-        "model": "campaign_trail.running_mate",
         "pk": 64,
         "fields": {
             "candidate": 92,
@@ -469,14 +415,6 @@ campaignTrail_temp.running_mate_json = [
         "fields": {
             "candidate": 92,
             "running_mate": 102
-        }
-    },
-    {
-        "model": "campaign_trail.running_mate",
-        "pk": 123352,
-        "fields": {
-            "candidate": 91,
-            "running_mate": 50000
         }
     }
 ]
