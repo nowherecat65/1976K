@@ -1,6 +1,15 @@
 campaignTrail_temp.questions_json = [
     {
         "model": "campaign_trail.question",
+        "pk": 422151,
+        "fields": {
+            "priority": 0,
+            "description": "(November 1975) Days after announcing your candidacy in Boston, you are already the frontrunner, but tensions within your campaign are flaring. Some advisors urge writing off the Iowa caucuses to focus on New Hampshire or Florida. But, the decision is yours.",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
         "pk": 422,
         "fields": {
             "priority": 0,
@@ -409,6 +418,30 @@ campaignTrail_temp.answers_json = [
         "fields": {
             "question": 422,
             "description": "Walter Mondale is a committed liberal and a true friend of Hubert H. Humphrey. He is the kind of man who all Democrats can get behind."
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 35312,
+        "fields": {
+            "question": 422151,
+            "description": "I don't see any need to spend more time in Iowa than necessary. The farms, the county fairs... I believe we'd be better served focusing our time and money on New Hampshire, where we have a strong lead, and on the later contests."
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 35313,
+        "fields": {
+            "question": 422151,
+            "description": "Ugh... It might not necessarily be my strong suit, but this is what a primary is about. We need to visit as many counties in Iowa as we can. I'm the damn frontrunner, you know, and we can secure some local endorsements. We can win the state. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 35314,
+        "fields": {
+            "question": 422151,
+            "description": "No. None of this bullshit. We have a strong lead in the polls, and we have the cash. We'd be far better off carpet-bombing the airwaves and holding occasional, but big, truly presidential rallies and events. We don't have to wait until January 1977. "
         }
     },
     {
@@ -6371,6 +6404,36 @@ campaignTrail_temp.answer_score_global_json = [
     },
     {
         "model": "campaign_trail.answer_score_global",
+        "pk": 1329,
+        "fields": {
+            "answer": 35314,
+            "candidate": 91,
+            "affected_candidate": 91,
+            "global_multiplier": -0.251311
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 1329,
+        "fields": {
+            "answer": 35313,
+            "candidate": 91,
+            "affected_candidate": 91,
+            "global_multiplier": -0.25123
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 1329,
+        "fields": {
+            "answer": 35312,
+            "candidate": 91,
+            "affected_candidate": 91,
+            "global_multiplier": -0.25115
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
         "pk": 1330,
         "fields": {
             "answer": 3518,
@@ -7634,6 +7697,66 @@ campaignTrail_temp.answer_score_issue_json = [
     },
     {
         "model": "campaign_trail.answer_score_issue",
+        "pk": 1072,
+        "fields": {
+            "answer": 35313,
+            "issue": 33,
+            "issue_score": -0.2,
+            "issue_importance": 3.3
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1072,
+        "fields": {
+            "answer": 35313,
+            "issue": 34,
+            "issue_score": -0.15,
+            "issue_importance": 1.7
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1072,
+        "fields": {
+            "answer": 35313,
+            "issue": 35,
+            "issue_score": -0.15,
+            "issue_importance": 1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1072,
+        "fields": {
+            "answer": 35314,
+            "issue": 33,
+            "issue_score": 0.1,
+            "issue_importance": 3.3
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1072,
+        "fields": {
+            "answer": 35314,
+            "issue": 34,
+            "issue_score": 0.0,
+            "issue_importance": 1.7
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1072,
+        "fields": {
+            "answer": 35314,
+            "issue": 35,
+            "issue_score": -0.05,
+            "issue_importance": 1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
         "pk": 1071,
         "fields": {
             "answer": 3530,
@@ -7650,6 +7773,66 @@ campaignTrail_temp.answer_score_issue_json = [
             "issue": 33,
             "issue_score": 0.5,
             "issue_importance": 2
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1072,
+        "fields": {
+            "answer": 35312,
+            "issue": 33,
+            "issue_score": 0.15,
+            "issue_importance": 3.3
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1072,
+        "fields": {
+            "answer": 35312,
+            "issue": 34,
+            "issue_score": 0.15,
+            "issue_importance": 1.7
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1072,
+        "fields": {
+            "answer": 35312,
+            "issue": 35,
+            "issue_score": 0.15,
+            "issue_importance": 1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1072,
+        "fields": {
+            "answer": 35313,
+            "issue": 33,
+            "issue_score": 0.15,
+            "issue_importance": 3.3
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1072,
+        "fields": {
+            "answer": 35313,
+            "issue": 34,
+            "issue_score": 0.15,
+            "issue_importance": 1.7
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1072,
+        "fields": {
+            "answer": 35313,
+            "issue": 35,
+            "issue_score": 0.15,
+            "issue_importance": 1
         }
     },
     {
@@ -12931,6 +13114,33 @@ campaignTrail_temp.answer_feedback_json = [
             "answer": 3531,
             "candidate": 91,
             "answer_feedback": "Walter Mondale is a popular choice among mainstream Democrats."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 1021,
+        "fields": {
+            "answer": 35312,
+            "candidate": 91,
+            "answer_feedback": "This may be a bit unambitious, but polls show you are noticeably further behind in Iowa than in New Hampshire, the rest of New England, or even states like Illinois or Florida."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 1021,
+        "fields": {
+            "answer": 35313,
+            "candidate": 91,
+            "answer_feedback": "To the dismay of some on your staff, you book countless events, rallies, and town halls in Iowa. Though they might not say it to your face, there is concern that you're 'demystifying' yourself and coming across as disconnected as you prepare to crisscross the state. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 1021,
+        "fields": {
+            "answer": 35314,
+            "candidate": 91,
+            "answer_feedback": "Thankfully, your significant lead in the polls means the press mostly gives you a pass on this issue, but your primary rivals are not, sharply criticizing you for acting 'like a king' or 'like Nixon' by not intimately campaigning on the ground and relying upon your frontrunner status."
         }
     },
     {
