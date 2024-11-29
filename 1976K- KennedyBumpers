@@ -455,6 +455,14 @@ campaignTrail_temp.answers_json = [
     },
     {
         "model": "campaign_trail.answer",
+        "pk": 3531215,
+        "fields": {
+            "question": 42233,
+            "description": "I think it’s time we take on some of those primetime TV interviews. But first, I want to bring the staff together and really prepare. I’ll admit, I don’t feel ready just yet to face a tough interviewer, but I need to be, and I will be.  "
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
         "pk": 3531214,
         "fields": {
             "question": 42233,
