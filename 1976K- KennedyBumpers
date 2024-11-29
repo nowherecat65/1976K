@@ -512,6 +512,14 @@ campaignTrail_temp.answers_json = [
     },
     {
         "model": "campaign_trail.answer",
+        "pk": 3531351,
+        "fields": {
+            "question": 422151,
+            "description": "The answer to all of our problems is: Florida. Let's rally, and run ads, down there. If we secure even a reasonably big victory in Florida, the race will be all but wrapped up. At that point, I doubt anyone but George Wallace, and the other crazies will still be in the running. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
         "pk": 35314,
         "fields": {
             "question": 422151,
@@ -6500,6 +6508,26 @@ campaignTrail_temp.answer_score_global_json = [
         "model": "campaign_trail.answer_score_global",
         "pk": 1329,
         "fields": {
+            "answer": 3531351,
+            "candidate": 91,
+            "affected_candidate": 91,
+            "global_multiplier": -0.0123313375237112646153
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 1329,
+        "fields": {
+            "answer": 3531351,
+            "candidate": 91,
+            "affected_candidate": 92,
+            "global_multiplier": -0.005615757153627294945123
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 1329,
+        "fields": {
             "answer": 35312,
             "candidate": 91,
             "affected_candidate": 91,
@@ -7957,6 +7985,36 @@ campaignTrail_temp.answer_score_issue_json = [
             "issue": 33,
             "issue_score": 0.5,
             "issue_importance": 2
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1072,
+        "fields": {
+            "answer": 3531351,
+            "issue": 33,
+            "issue_score": -0.3,
+            "issue_importance": 3.3
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1072,
+        "fields": {
+            "answer": 3531351,
+            "issue": 34,
+            "issue_score": -0.25,
+            "issue_importance": 1.7
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1072,
+        "fields": {
+            "answer": 3531351,
+            "issue": 35,
+            "issue_score": -0.25,
+            "issue_importance": 1
         }
     },
     {
@@ -10119,6 +10177,17 @@ campaignTrail_temp.answer_score_state_json = [
             "candidate": 91,
             "affected_candidate": 91,
             "state_multiplier": 0.021
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_state",
+        "pk": 12450,
+        "fields": {
+            "answer": 3531351,
+            "state": 240,
+            "candidate": 91,
+            "affected_candidate": 91,
+            "state_multiplier": 0.03733
         }
     },
     {
@@ -13523,6 +13592,15 @@ campaignTrail_temp.answer_feedback_json = [
             "answer": 35313,
             "candidate": 91,
             "answer_feedback": "To the dismay of some on your staff, you book countless events, rallies, and town halls in Iowa. Though they might not say it to your face, there is concern that you're 'demystifying' yourself and coming across as disconnected as you prepare to crisscross the state. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 1021,
+        "fields": {
+            "answer": 3531351,
+            "candidate": 91,
+            "answer_feedback": "Florida is an expensive market compared to Iowa, and New Hampshire, but it’s true, a strong victory down there could all but seal the nomination for you. It’s a gamble, sir, and some on your staff are worried about it. But it’ll work out in the end, right? "
         }
     },
     {
