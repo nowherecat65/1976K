@@ -6442,7 +6442,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 35314,
             "candidate": 91,
             "affected_candidate": 91,
-            "global_multiplier": -0.1484361311
+            "global_multiplier": -0.1494361311
         }
     },
     {
@@ -6452,7 +6452,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 35313,
             "candidate": 91,
             "affected_candidate": 91,
-            "global_multiplier": -0.14845123
+            "global_multiplier": -0.14945123
         }
     },
     {
