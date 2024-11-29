@@ -4995,7 +4995,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 91,
             "state": 277,
-            "state_multiplier": 0.85
+            "state_multiplier": 0.7899899899
         }
     },
     {
