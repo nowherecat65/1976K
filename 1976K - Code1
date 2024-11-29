@@ -29,7 +29,7 @@ campaignTrail_temp.election_json = [
         "pk": 10,
         "fields": {
             "year": 1976,
-            "summary": "<p>Things are not hot as the nation enters its bicentennial. The fallout from the Watergate scandal has left an indelible mark on the Presidency. Despite this, the nation seems poised to elect insiders in their respective parties.<p><ul><li>Gerald Ford is the incumbent President but starts with a massive deficit in the polls due to the national situation.<li>Senator Henry Jackson is Ford’s challenger in this election. He won his party's nomination emphasizing his experiences and credentials.</p>",
+            "summary": "<p>The 1976 election unfolds in the shadow of Watergate, with a restless nation hungry for change and ready to reject the politics of ''same old, same old.''<p><ul><li>Senator Ted Kennedy has dominated the primaries and now leads Gerald Ford in the general election. A short primary spared him from fully addressing Chappaquiddick and other scandals, but he will likely face them soon.<li>President Ford trails in the polls but is banking on a comeback. His team is preparing an aggressive campaign targeting Kennedy’s scandals and liberalism, as Ford weighs a busy campaign or a 'front porch' approach from the White House.</p>",
             "image_url": "https://i.imgur.com/qMGWwY8.jpeg",
             "winning_electoral_vote_number": 270,
             "advisor_url": "https://i.imgur.com/VvPbS1m.png",
