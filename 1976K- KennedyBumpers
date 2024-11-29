@@ -4653,7 +4653,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 91,
             "state": 239,
-            "state_multiplier": 1
+            "state_multiplier": 1.0415
         }
     },
     {
@@ -4761,7 +4761,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 91,
             "state": 251,
-            "state_multiplier": 1
+            "state_multiplier": 1.075
         }
     },
     {
@@ -5022,7 +5022,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 91,
             "state": 280,
-            "state_multiplier": 1.05
+            "state_multiplier": 1.1275
         }
     },
     {
@@ -6480,7 +6480,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 3531212,
             "candidate": 91,
             "affected_candidate": 91,
-            "global_multiplier": -0.0539599121126115
+            "global_multiplier": -0.0439599121126115
         }
     },
     {
@@ -6490,7 +6490,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 3531213,
             "candidate": 91,
             "affected_candidate": 91,
-            "global_multiplier": -0.05116555121126115
+            "global_multiplier": -0.04116555121126115
         }
     },
     {
@@ -6510,7 +6510,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 3531214,
             "candidate": 91,
             "affected_candidate": 91,
-            "global_multiplier": -0.05228575121126115
+            "global_multiplier": -0.04228575121126115
         }
     },
     {
@@ -6530,7 +6530,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 3531215,
             "candidate": 91,
             "affected_candidate": 91,
-            "global_multiplier": -0.07249984179695121126115
+            "global_multiplier": -0.06249984179695121126115
         }
     },
     {
@@ -6540,7 +6540,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 3531215,
             "candidate": 91,
             "affected_candidate": 92,
-            "global_multiplier": 0.02998991218575121126115
+            "global_multiplier": 0.023998991218575121126115
         }
     },
     {
