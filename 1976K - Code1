@@ -53,7 +53,7 @@ campaignTrail_temp.candidate_json = [
             "party": "Democrat",
             "state": "Massachussetts",
             "priority": 1,
-            "description": "<p>Edward \"Teddy\" Kennedy has has represented his home state of Massachusetts in the Senate since 1962, stepping into the job once held by his brother Jack. Widely regarded as the standard-bearer of American liberalism, Kennedy has remained a towering figure in the Democratic Party despite the shadow of personal scandals, most notably Chappaquiddick. His candidacy all but cleared the primary field upon announcement. <p> Kennedy is celebrated as an inspiring and impactful orator, capable of stirring emotions and rallying support. However, he is also known for moments of awkwardness and a tendency toward being overly detail-focused, occasionally veering into the realm of a policy wonk. ",
+            "description": "<p>Edward \"Teddy\" Kennedy has has represented his home state of Massachusetts in the Senate since 1962, stepping into the job once held by his brother Jack. Widely regarded as the standard-bearer of American liberalism, Kennedy has remained a towering figure in the Democratic Party despite the shadow of personal scandals, most notably Chappaquiddick. His candidacy all but cleared the primary field upon announcement. <p> Senator Kennedy is celebrated as an inspiring and impactful orator, capable of stirring emotions and rallying support. However, he is also known for moments of awkwardness and a tendency toward being overly detail-focused, occasionally veering into the realm of a policy wonk. ",
             "color_hex": "#3751D4",
             "secondary_color_hex": "#4947D5",
             "is_active": 1,
