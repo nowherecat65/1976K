@@ -456,6 +456,30 @@ campaignTrail_temp.answers_json = [
     },
     {
         "model": "campaign_trail.answer",
+        "pk": 6344,
+        "fields": {
+            "question": 42277,
+            "description": "We must carry forward with a message of hope. The American people have lost faith in Washington, and frankly, I don’t blame them. But, our battle continues, and our great cause binds us together as a great people. It is a cause that stirs the heart, lifts the spirit, and drives us to build a better country, and world. I believe in our vision. I believe in our fight."
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 6345,
+        "fields": {
+            "question": 42277,
+            "description": "We have an economy today that isn’t working for most Americans, especially the poor, the young, and the working families who carry this nation on their shoulders. I believe we must expand opportunity for all, create growth for all. And let me say this plainly: I will fight for, and I will sign, a universal healthcare bill. Mark my words. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 63451,
+        "fields": {
+            "question": 42277,
+            "description": "I want to thank the country tonight. During the past nearly year on the trail, I have met so many good Americans and seeing firsthand the strength and resilience that make this nation what it is. As your President, I will fight for your chance to succeed, for the promise of opportunity, and for the American Dream. That will be my job. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
         "pk": 3531213,
         "fields": {
             "question": 42233,
@@ -6496,6 +6520,46 @@ campaignTrail_temp.answer_score_global_json = [
         "model": "campaign_trail.answer_score_global",
         "pk": 1329,
         "fields": {
+            "answer": 6344,
+            "candidate": 91,
+            "affected_candidate": 91,
+            "global_multiplier": -0.00751
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 1329,
+        "fields": {
+            "answer": 6345,
+            "candidate": 91,
+            "affected_candidate": 91,
+            "global_multiplier": -0.00637
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 1329,
+        "fields": {
+            "answer": 63451,
+            "candidate": 91,
+            "affected_candidate": 91,
+            "global_multiplier": -0.008495
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 1329,
+        "fields": {
+            "answer": 63451,
+            "candidate": 91,
+            "affected_candidate": 92,
+            "global_multiplier": -0.00441
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 1329,
+        "fields": {
             "answer": 3531213,
             "candidate": 91,
             "affected_candidate": 91,
@@ -7913,6 +7977,96 @@ campaignTrail_temp.answer_score_issue_json = [
             "issue": 33,
             "issue_score": 0.1,
             "issue_importance": 2.3
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1072,
+        "fields": {
+            "answer": 6344,
+            "issue": 34,
+            "issue_score": 0.2,
+            "issue_importance": 7
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1072,
+        "fields": {
+            "answer": 6344,
+            "issue": 33,
+            "issue_score": 0.31,
+            "issue_importance": 4
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1072,
+        "fields": {
+            "answer": 6344,
+            "issue": 35,
+            "issue_score": 0.2,
+            "issue_importance": 2
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1072,
+        "fields": {
+            "answer": 6345,
+            "issue": 34,
+            "issue_score": 0.36,
+            "issue_importance": 6
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1072,
+        "fields": {
+            "answer": 6345,
+            "issue": 33,
+            "issue_score": -0.151,
+            "issue_importance": 3
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1072,
+        "fields": {
+            "answer": 6345,
+            "issue": 35,
+            "issue_score": 0.36,
+            "issue_importance": 4
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1072,
+        "fields": {
+            "answer": 63451,
+            "issue": 34,
+            "issue_score": -0.18,
+            "issue_importance": 7
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1072,
+        "fields": {
+            "answer": 63451,
+            "issue": 33,
+            "issue_score": 0.181,
+            "issue_importance": 3
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1072,
+        "fields": {
+            "answer": 63451,
+            "issue": 35,
+            "issue_score": -0.22,
+            "issue_importance": 3
         }
     },
     {
@@ -13306,6 +13460,33 @@ campaignTrail_temp.answer_feedback_json = [
             "answer": 3531212,
             "candidate": 91,
             "answer_feedback": "Well, you already have a solid relationship with the print press, and while a few more favorable stories with your name will certainly help, this approach is essentially the same as what you’ve already been doing. "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 1021,
+        "fields": {
+            "answer": 6344,
+            "candidate": 91,
+            "answer_feedback": "The delegates and audience at Madison Square Garden erupt in applause, electrified by the energy of your speech. They, along with countless viewers at home, felt a real magic in the air as you delivered it. While some critics claim it lacked substance, does that really matter?  "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 1021,
+        "fields": {
+            "answer": 6345,
+            "candidate": 91,
+            "answer_feedback": "The crowd erupts with enthusiasm, and your supporters are clearly energized by the substance of your words. This is likely a more explicitly liberal and progressive speech than many in the media anticipated, but its vigor and passion have brought the DNC to its feet, and that counts for something.   "
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 1021,
+        "fields": {
+            "answer": 63451,
+            "candidate": 91,
+            "answer_feedback": "The crowd enjoys your speech and cheers big, though certain lines are met with a more muted response. Many of your supporters, along with much of the party base, expected something more aggressive or a speech brimming with greater inspiration and hope. This speech works, but that’s all it does.  "
         }
     },
     {
