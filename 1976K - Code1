@@ -3,9 +3,9 @@ campaignTrail_temp.global_parameter_json = [
         "model": "campaign_trail.global_parameter",
         "pk": 1,
         "fields": {
-            "vote_variable": 1.125,
-            "max_swing": 0.12,
-            "start_point": 0.94,
+            "vote_variable": 1.1294,
+            "max_swing": 0.124,
+            "start_point": 0.944,
             "candidate_issue_weight": 10,
             "running_mate_issue_weight": 3,
             "issue_stance_1_max": -0.71,
@@ -14,8 +14,8 @@ campaignTrail_temp.global_parameter_json = [
             "issue_stance_4_max": 0.125,
             "issue_stance_5_max": 0.3,
             "issue_stance_6_max": 0.71,
-            "global_variance": 0.01,
-            "state_variance": 0.005,
+            "global_variance": 0.0143,
+            "state_variance": 0.00941,
             "question_count": 25,
             "default_map_color_hex": "#C9C9C9",
             "no_state_map_color_hex": "#999999"
