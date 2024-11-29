@@ -4,7 +4,7 @@ campaignTrail_temp.questions_json = [
         "pk": 422151,
         "fields": {
             "priority": 0,
-            "description": "(November 1975) Days after announcing your candidacy in Boston, you are already the frontrunner, but tensions within your campaign are flaring. Some advisors urge writing off the Iowa caucuses to focus on New Hampshire or Florida. But, the decision is yours.",
+            "description": "(NOVEMBER 1975) Even before, and now after, announcing your candidacy in Boston, you are already the frontrunner, but tensions within your campaign are flaring. Some advisors urge you to write off the Iowa caucuses to focus on New Hampshire or Florida instead. The decision, however, is yours.",
             "likelihood": 1
         }
     },
