@@ -13576,7 +13576,7 @@ campaignTrail_temp.answer_feedback_json = [
         "model": "campaign_trail.answer_feedback",
         "pk": 1021,
         "fields": {
-            "answer": 6344,
+            "answer": 63451,
             "candidate": 91,
             "answer_feedback": "The delegates and audience at Madison Square Garden erupt in applause, electrified by the energy of your speech. They, along with countless viewers at home, felt a real magic in the air as you delivered it. While some critics claim it lacked substance, does that really matter?  "
         }
@@ -13594,7 +13594,7 @@ campaignTrail_temp.answer_feedback_json = [
         "model": "campaign_trail.answer_feedback",
         "pk": 1021,
         "fields": {
-            "answer": 63451,
+            "answer": 6344,
             "candidate": 91,
             "answer_feedback": "The crowd enjoys your speech and cheers big, though certain lines are met with a more muted response. Many of your supporters, along with much of the party base, expected something more aggressive or a speech brimming with greater inspiration and hope. This speech works, but that’s all it does.  "
         }
