@@ -162,8 +162,8 @@ campaignTrail_temp.candidate_json = [
         "model": "campaign_trail.candidate",
         "pk": 96,
         "fields": {
-            "first_name": "Hubert",
-            "last_name": "Humphrey",
+            "first_name": "Walter",
+            "last_name": "Mondale",
             "election": 10,
             "party": "Democrat",
             "state": "Minnesota",
@@ -176,7 +176,7 @@ campaignTrail_temp.candidate_json = [
             "electoral_victory_message": "''",
             "electoral_loss_message": "''",
             "no_electoral_majority_message": "''",
-            "description_as_running_mate": "<p>Dolph Briscoe is the current Governor of Texas. He was swept into office on a reformist platform and implemented sweeping changes to the state's government such as revising the state's outdated penal code following the Sharpstown scandals. His resume so far includes expanding benefits for the mentally challenged, and increasing benefits for farmers.<p>Being from Texas, he would help you immensely in that state. Dolph does lack greater name recognition outside of Texas though, meaning that his efforts anywhere outside would be hampered.",
+            "description_as_running_mate": "<p>Walter ''Fritz'' Mondale is a Senator from Minnesota, a protégé of Hubert H. Humphrey, and considered a strong, and liberal voice within the Democratic Party. He could bolster your campaign in Minnesota and across the Midwest, though it doesn’t seem like you’ll necessarily need the extra support there.<p>Fritz would bring regional balance to the ticket and offers a warm, natural, folksy personality that resonates strongly with most people, especially blue-collar voters. However, he is considered pretty liberal, and given your own reputation, that alignment might not be the most strategic choice.",
             "candidate_score": 0,
             "running_mate": true
         }
