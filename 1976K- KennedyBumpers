@@ -22,7 +22,7 @@ campaignTrail_temp.questions_json = [
         "pk": 42277,
         "fields": {
             "priority": 0,
-            "description": "The primary campaign twisted and turned, but it was over relatively quickly, and you were the presumptive nominee by early April, and now here you are at Madison Square Garden in New York City, just a day before your set to offically accept the Democratic Nomination. - You and your team have already worked on some speeches, what approach will you take?  ",
+            "description": "The primary campaign twisted and turned, but it was over relatively quickly, and you were the presumptive nominee by early April, and now here you are at Madison Square Garden in New York City, just a day before your set to offically accept the Democratic Nomination. -- You and your team have already worked on some speeches, what approach will you take?  ",
             "likelihood": 1
         }
     },
