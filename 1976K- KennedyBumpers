@@ -435,7 +435,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3531,
         "fields": {
             "question": 422,
-            "description": "Walter Mondale is a committed liberal and a true friend of Hubert H. Humphrey. He is the kind of man who all Democrats can get behind."
+            "description": "Well, Dale has become a true friend of mine in the Senate. In the short time he’s served, I’ve come to admire his spirit, his tenacity, and his unwavering commitment to the values we hold dear. He’s the kind of man every Democrat, and, I believe, every American, can rally behind! "
         }
     },
     {
@@ -531,7 +531,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3532,
         "fields": {
             "question": 422,
-            "description": "Walter Mondale has served his home state of Minnesota well, and he is the best man for the job."
+            "description": "Senator Bumpers is a good man, a strong, honorable, and decent man. When I sat down to think about my choice for a running mate, his name was both the first to come to mind, and it was the best. He embodies the kind of character and conviction that we should all be proud of. "
         }
     },
     {
@@ -8229,42 +8229,12 @@ campaignTrail_temp.answer_score_issue_json = [
     },
     {
         "model": "campaign_trail.answer_score_issue",
-        "pk": 1073,
-        "fields": {
-            "answer": 3531,
-            "issue": 34,
-            "issue_score": 0.5,
-            "issue_importance": 2
-        }
-    },
-    {
-        "model": "campaign_trail.answer_score_issue",
-        "pk": 1074,
-        "fields": {
-            "answer": 3531,
-            "issue": 35,
-            "issue_score": 0.5,
-            "issue_importance": 2
-        }
-    },
-    {
-        "model": "campaign_trail.answer_score_issue",
-        "pk": 1075,
-        "fields": {
-            "answer": 3531,
-            "issue": 36,
-            "issue_score": 0.5,
-            "issue_importance": 2
-        }
-    },
-    {
-        "model": "campaign_trail.answer_score_issue",
         "pk": 1076,
         "fields": {
             "answer": 3532,
             "issue": 33,
-            "issue_score": 0.333,
-            "issue_importance": 2
+            "issue_score": 0.1,
+            "issue_importance": 1
         }
     },
     {
@@ -8273,8 +8243,8 @@ campaignTrail_temp.answer_score_issue_json = [
         "fields": {
             "answer": 3532,
             "issue": 34,
-            "issue_score": 0.333,
-            "issue_importance": 2
+            "issue_score": 0.133,
+            "issue_importance": 0.5
         }
     },
     {
@@ -8283,8 +8253,8 @@ campaignTrail_temp.answer_score_issue_json = [
         "fields": {
             "answer": 3532,
             "issue": 35,
-            "issue_score": 0.333,
-            "issue_importance": 2
+            "issue_score": 0.07,
+            "issue_importance": 0.75
         }
     },
     {
@@ -8293,8 +8263,8 @@ campaignTrail_temp.answer_score_issue_json = [
         "fields": {
             "answer": 3532,
             "issue": 36,
-            "issue_score": 0.333,
-            "issue_importance": 2
+            "issue_score": 0.1,
+            "issue_importance": 0.25
         }
     },
     {
@@ -8385,6 +8355,46 @@ campaignTrail_temp.answer_score_issue_json = [
             "issue": 34,
             "issue_score": -0.2,
             "issue_importance": 1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1076,
+        "fields": {
+            "answer": 3531,
+            "issue": 33,
+            "issue_score": 0.1,
+            "issue_importance": 1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1077,
+        "fields": {
+            "answer": 3531,
+            "issue": 34,
+            "issue_score": 0.133,
+            "issue_importance": 0.5
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1078,
+        "fields": {
+            "answer": 3531,
+            "issue": 35,
+            "issue_score": 0.07,
+            "issue_importance": 0.75
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1079,
+        "fields": {
+            "answer": 3531,
+            "issue": 36,
+            "issue_score": 0.1,
+            "issue_importance": 0.25
         }
     },
     {
@@ -9706,10 +9716,10 @@ campaignTrail_temp.answer_score_state_json = [
         "pk": 12311,
         "fields": {
             "answer": 3531,
-            "state": 254,
+            "state": 235,
             "candidate": 91,
             "affected_candidate": 91,
-            "state_multiplier": 0.003
+            "state_multiplier": 0.013
         }
     },
     {
@@ -9717,10 +9727,10 @@ campaignTrail_temp.answer_score_state_json = [
         "pk": 12312,
         "fields": {
             "answer": 3532,
-            "state": 254,
+            "state": 235,
             "candidate": 91,
             "affected_candidate": 91,
-            "state_multiplier": 0.005
+            "state_multiplier": 0.013
         }
     },
     {
@@ -13571,7 +13581,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3531,
             "candidate": 91,
-            "answer_feedback": "Walter Mondale is a popular choice among mainstream Democrats."
+            "answer_feedback": "Dale Bumpers is a pretty popular and unifying pick. While he’s not a conservative, on a national level, he’s not viewed as being as liberal as he is often considered back home in Arkansas. He’s already set to embark on his own tour of visits, rallies, and events across the Mid-to-Upper South. "
         }
     },
     {
@@ -13679,7 +13689,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3532,
             "candidate": 91,
-            "answer_feedback": "Walter Mondale is a popular choice among mainstream Democrats."
+            "answer_feedback": "Dale Bumpers is a pretty popular and unifying pick. While he’s not a conservative, on a national level, he’s not viewed as being as liberal as he is often considered back home in Arkansas. He’s already set to embark on his own tour of visits, rallies, and events across the Mid-to-Upper South.."
         }
     },
     {
