@@ -31,7 +31,7 @@ campaignTrail_temp.questions_json = [
         "pk": 422,
         "fields": {
             "priority": 0,
-            "description": "You have selected Senator Dale Bumpers from Arkansas as your running mate. Why did you decide to choose him, and what do you want him to do on the campaign trail?  ",
+            "description": "You have selected Senator Dale Bumpers from Arkansas as your running mate. Why did you make the selection you did?  ",
             "likelihood": 1
         }
     },
@@ -8025,16 +8025,6 @@ campaignTrail_temp.answer_score_issue_json = [
             "issue": 34,
             "issue_score": 0.575,
             "issue_importance": 1
-        }
-    },
-    {
-        "model": "campaign_trail.answer_score_issue",
-        "pk": 1072,
-        "fields": {
-            "answer": 3531,
-            "issue": 33,
-            "issue_score": 0.5,
-            "issue_importance": 2
         }
     },
     {
