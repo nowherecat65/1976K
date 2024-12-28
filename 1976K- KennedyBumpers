@@ -267,7 +267,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3510,
         "fields": {
             "question": 415,
-            "description": "Some have said that my positions are too ambitious for this election. But this is no time for small ideas or incrementalism. It is time for the bold action, that will give us a bold future."
+            "description": "I entered this race because the Democratic Party needs to stand for something again. This campaign is about fighting for universal health care, stronger unions, and civil rights for all Americans."
         }
     },
     {
@@ -275,7 +275,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3511,
         "fields": {
             "question": 415,
-            "description": "I entered this race because the Democratic Party needs to stand for something again. This campaign is about fighting for universal health care, stronger unions, and civil rights for all Americans."
+            "description": "Some have said that the Democratic Party is considered too liberal by the masses of people in this country. I think we'd be well-served if we run a cautious and moderate campaign. "
         }
     },
     {
@@ -6771,7 +6771,17 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 3511,
             "candidate": 91,
             "affected_candidate": 92,
-            "global_multiplier": 0.021
+            "global_multiplier": 0.023
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 1341,
+        "fields": {
+            "answer": 3511,
+            "candidate": 91,
+            "affected_candidate": 91,
+            "global_multiplier": 0.002
         }
     },
     {
@@ -7803,7 +7813,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "fields": {
             "answer": 3511,
             "issue": 32,
-            "issue_score": 0.8,
+            "issue_score": -0.075,
             "issue_importance": 3
         }
     },
@@ -7813,7 +7823,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "fields": {
             "answer": 3511,
             "issue": 33,
-            "issue_score": 0.25,
+            "issue_score": -0.05,
             "issue_importance": 3
         }
     },
@@ -7823,7 +7833,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "fields": {
             "answer": 3511,
             "issue": 34,
-            "issue_score": 0.25,
+            "issue_score": -0.01,
             "issue_importance": 3
         }
     },
@@ -7833,7 +7843,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "fields": {
             "answer": 3511,
             "issue": 35,
-            "issue_score": 0.25,
+            "issue_score": -0.05,
             "issue_importance": 3
         }
     },
@@ -7843,7 +7853,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "fields": {
             "answer": 3511,
             "issue": 36,
-            "issue_score": 0.25,
+            "issue_score": -0.01,
             "issue_importance": 3
         }
     },
