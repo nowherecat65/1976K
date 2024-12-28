@@ -1,3 +1,18 @@
+campaignTrail_temp.cyoa = true
+cyoAdventure = function(a) {
+ ans = campaignTrail_temp.player_answers[campaignTrail_temp.player_answers.length - 1]
+    if(ans == 63451){
+        e.election_json[0].fields.has_visits = 1;
+    }
+    if(ans == 6345){
+        e.election_json[0].fields.has_visits = 1;
+    }
+    if(ans == 6344){
+        e.election_json[0].fields.has_visits = 1;
+    }
+
+}
+
 campaignTrail_temp.questions_json = [
     {
         "model": "campaign_trail.question",
