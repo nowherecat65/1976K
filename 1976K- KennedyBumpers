@@ -49,7 +49,7 @@ campaignTrail_temp.questions_json = [
         "pk": 416,
         "fields": {
             "priority": 2,
-            "description": "A lot of voters are concerned about honesty and integrity in our government. What can you say about yourself in this aspect?",
+            "description": "Though you were spared from directly addressing it during the primary campaign, the Ford campaign is now circulating a letter and running television advertisements questioning your judgment and character, especially regarding the Chappaquiddick scandal and your slothful, hedonistic reputation. How should we respond?",
             "likelihood": 1
         }
     },
@@ -291,7 +291,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3513,
         "fields": {
             "question": 416,
-            "description": "I will never tell a lie to the American people. My Southern Baptist faith and my family have guided me for my entire life. I will make sure my biography and home town get heavy coverage in our advertisements."
+            "description": "The Chappaquiddick tragedy was a painful moment in my life, something I’ve lived with every day, and I’ve taken responsibility for it. This election should be about the challenges facing the American people, not revisiting the past."
         }
     },
     {
@@ -299,7 +299,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3514,
         "fields": {
             "question": 416,
-            "description": "Honesty and integrity is good, but voters want to hear about solutions. I have common-sense answers to our nation's problems."
+            "description": "I know questions about my judgment will arise, but I’ve spent my career working for the people and delivering results. This election cannout, and must not be about my past, it’s about who can tackle the challenges of today and tomorrow."
         }
     },
     {
@@ -307,7 +307,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3515,
         "fields": {
             "question": 416,
-            "description": "We have a President in the White House who pardoned the most notorious liar in our nation's history. The previous President, Lyndon Johnson, lied our country into Vietnam. I will be a different kind of President."
+            "description": "Gerald Ford’s campaign is focused on my past because they can’t defend his record of pardoning Nixon, vetoing critical programs, and failing to address the economy. The voters deserve a real debate about leadership and the future."
         }
     },
     {
@@ -6801,17 +6801,47 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 3514,
             "candidate": 91,
             "affected_candidate": 92,
-            "global_multiplier": 0.012
+            "global_multiplier": 0.055
         }
     },
     {
         "model": "campaign_trail.answer_score_global",
-        "pk": 1344,
+        "pk": 1343,
+        "fields": {
+            "answer": 3514,
+            "candidate": 91,
+            "affected_candidate": 91,
+            "global_multiplier": -0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 1343,
         "fields": {
             "answer": 3515,
             "candidate": 91,
             "affected_candidate": 92,
-            "global_multiplier": 0.008
+            "global_multiplier": 0.0444
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 1343,
+        "fields": {
+            "answer": 3515,
+            "candidate": 91,
+            "affected_candidate": 91,
+            "global_multiplier": -0.015
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 1343,
+        "fields": {
+            "answer": 3513,
+            "candidate": 91,
+            "affected_candidate": 92,
+            "global_multiplier": 0.05
         }
     },
     {
@@ -8959,17 +8989,6 @@ campaignTrail_temp.answer_score_state_json = [
             "candidate": 91,
             "affected_candidate": 91,
             "state_multiplier": -0.0066
-        }
-    },
-    {
-        "model": "campaign_trail.answer_score_state",
-        "pk": 12241,
-        "fields": {
-            "answer": 3515,
-            "state": 274,
-            "candidate": 91,
-            "affected_candidate": 91,
-            "state_multiplier": -0.04
         }
     },
     {
@@ -13439,7 +13458,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3513,
             "candidate": 91,
-            "answer_feedback": "Your response is really in tune with the mood of the country."
+            "answer_feedback": "What can you really say, right? At the end of the day, taking a defensive position like this is probably the best you can do. It will continue to haunt your campaign and your image, but expressing regret like this is probably the right move. "
         }
     },
     {
@@ -13448,7 +13467,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3514,
             "candidate": 91,
-            "answer_feedback": "Voters do want to hear about your character. Don't downplay it."
+            "answer_feedback": "Jesus Christ, Teddy! You can't half-ass this or ignore it. Whether you like it or not, Gerald Ford is going to punch you in the goddamn nose over Chappaquiddick every single day, and you're doing little to combat it."
         }
     },
     {
@@ -13457,7 +13476,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3515,
             "candidate": 91,
-            "answer_feedback": "Voters want honesty in government, but this message sounds a little strident. It is also offensive to the Johnson bloc of the party."
+            "answer_feedback": "This may be cynical, but many on your team believe you have little to gain by addressing Chappaquiddick. Taking a left-hook to President Ford, right in the jaw, might be the strategy you need."
         }
     },
     {
