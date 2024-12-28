@@ -13403,7 +13403,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3509,
             "candidate": 91,
-            "answer_feedback": "Your response is really in tune with the mood of the country."
+            "answer_feedback": "Though the nation is certainly tired of the same old politics, this might come across as just a bit too revolutionary and extreme."
         }
     },
     {
@@ -13412,7 +13412,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3510,
             "candidate": 91,
-            "answer_feedback": "Political issues are secondary to character issues, and the Democrats are anxious to win after '68 and '72. "
+            "answer_feedback": "Many people are certainly missing the cool and collected Kennedy style; it's not exactly full-fledged liberalism they're yearning for, and it seems you don't quite understand this.  "
         }
     },
     {
@@ -13421,7 +13421,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3511,
             "candidate": 91,
-            "answer_feedback": "Political issues are secondary to character issues, and there's no need to pigeonhole yourself yet."
+            "answer_feedback": "Considering you're known as the Liberal Lion of the Senate, this weak-willed, timid campaigning style and ideological positioning are certainly undermining your core appeal."
         }
     },
     {
@@ -13430,7 +13430,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3512,
             "candidate": 91,
-            "answer_feedback": "Voters want honesty in government, but this message sounds a little strident."
+            "answer_feedback": "Wow, you really don't like Gerald Ford, do you? You currently have a big polling lead, but this divisive tone might not be the smartest strategy. "
         }
     },
     {
