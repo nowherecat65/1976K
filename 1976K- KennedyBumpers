@@ -14860,4 +14860,6 @@ campaignTrail_temp.candidate_image_url = "https://i.imgur.com/h4fvRx1.jpeg";
 campaignTrail_temp.running_mate_image_url = "https://i.imgur.com/iaNauNj.jpeg";
 campaignTrail_temp.candidate_last_name = "Kennedy";
 campaignTrail_temp.running_mate_last_name = "Bumpers";
+e.election_json[0].fields.has_visits = 0;
+
 
