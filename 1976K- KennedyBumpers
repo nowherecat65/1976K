@@ -259,7 +259,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3509,
         "fields": {
             "question": 415,
-            "description": "People want an outsider in government. I'm in a unique position to unite the country and move it towards a newer, more open chapter in its history."
+            "description": "The American people are tired of a presidency defined by compromise and caution. Gerald Ford may present himself as a stabilizing force, but what this country needs is bold, visionary leadership."
         }
     },
     {
@@ -267,7 +267,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3510,
         "fields": {
             "question": 415,
-            "description": "I know a lot of Democrats are concerned that I'm too moderate. I will make it a point to express support for a staunch liberal platform this fall."
+            "description": "Some have said that my positions are too ambitious for this election. But this is no time for small ideas or incrementalism. It is time for the bold action, that will give us a bold future."
         }
     },
     {
@@ -275,7 +275,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3511,
         "fields": {
             "question": 415,
-            "description": "I won my party's nomination as a moderate, conciliatory politician. We will continue this strategy in the general election, and above all we'll avoid the mistakes of McGovern in '72."
+            "description": "I entered this race because the Democratic Party needs to stand for something again. This campaign is about fighting for universal health care, stronger unions, and civil rights for all Americans."
         }
     },
     {
@@ -283,7 +283,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3512,
         "fields": {
             "question": 415,
-            "description": "Gerald Ford pardoned Nixon, vetoed a school lunch program, and selected Bob Dole as his running mate. We need to remind the American people that he is far too much of a conservative insider to be President."
+            "description": "Gerald Ford pardoned Richard Nixon, vetoed programs for the working class, and presided over an economy that has left too many Americans behind. America is ready for a fresh start, not more of the same."
         }
     },
     {
