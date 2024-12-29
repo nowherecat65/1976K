@@ -6786,7 +6786,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 3509,
             "candidate": 91,
             "affected_candidate": 92,
-            "global_multiplier": 0.0198
+            "global_multiplier": 0.0215
         }
     },
     {
@@ -6796,7 +6796,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 3509,
             "candidate": 91,
             "affected_candidate": 91,
-            "global_multiplier": -0.0111
+            "global_multiplier": -0.0165
         }
     },
     {
@@ -13477,7 +13477,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3509,
             "candidate": 91,
-            "answer_feedback": "Though the nation is certainly tired of the same old politics, this might come across as just a bit too revolutionary and extreme."
+            "answer_feedback": "Though the nation is certainly tired of the same old politics, this might come across as just a bit too liberal and extreme."
         }
     },
     {
