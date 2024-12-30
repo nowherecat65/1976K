@@ -82,7 +82,7 @@ campaignTrail_temp.questions_json = [
         "pk": 431,
         "fields": {
             "priority": 3,
-            "description": "Do you support the ratification of the Equal Rights Amendment, which states \"Equality of rights under the law shall not be denied or abridged by the United States or by any State on account of sex.\"?",
+            "description": "Your status as a progressive icon is being put to the test right now. Female reporters have been hounding you for a few days, all with the same question: Do you support the ratification of the Equal Rights Amendment? While you've spoken out in favor of it before, you haven't made an exact statement yet. Would you like to?\"?",
             "likelihood": 1
         }
     },
@@ -253,7 +253,7 @@ campaignTrail_temp.questions_json = [
         "pk": 421,
         "fields": {
             "priority": -2,
-            "description": "On the Sunday before election day, your church has canceled its services rather than admit a black minister as a member. Will you terminate your own membership?",
+            "description": "Senator Kennedy, reports have surfaced alleging that earlier this year, during a prominent fundraising gala in Boston, you appeared visibly intoxicated. Witnesses claim you made inappropriate remarks to attendees and exhibited unsteady behavior. The Ford campaign is subtly framing this as yet another example of questionable judgment. How should we respond to this?",
             "likelihood": 1
         }
     },
