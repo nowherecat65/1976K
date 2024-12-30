@@ -3,12 +3,18 @@ cyoAdventure = function(a) {
  ans = campaignTrail_temp.player_answers[campaignTrail_temp.player_answers.length - 1]
     if(ans == 63451){
         e.election_json[0].fields.has_visits = 1;
+        campaignTrail_temp.running_mate_image_url = "https://i.imgur.com/pVfrGXa.jpeg";
+        campaignTrail_temp.running_mate_last_name = "Bumpers";
     }
     if(ans == 6345){
         e.election_json[0].fields.has_visits = 1;
+        campaignTrail_temp.running_mate_image_url = "https://i.imgur.com/pVfrGXa.jpeg";
+        campaignTrail_temp.running_mate_last_name = "Bumpers";
     }
     if(ans == 6344){
         e.election_json[0].fields.has_visits = 1;
+        campaignTrail_temp.running_mate_image_url = "https://i.imgur.com/pVfrGXa.jpeg";
+        campaignTrail_temp.running_mate_last_name = "Bumpers";
     }
 
 }
@@ -14882,9 +14888,9 @@ endingPicker = (out, totv, aa, quickstats) => {
    campaignTrail_temp.multiple_endings=true
 
 campaignTrail_temp.candidate_image_url = "https://i.imgur.com/h4fvRx1.jpeg";
-campaignTrail_temp.running_mate_image_url = "https://i.imgur.com/pVfrGXa.jpeg";
+campaignTrail_temp.running_mate_image_url = "https://i.imgur.com/7Iqz9AE.png";
 campaignTrail_temp.candidate_last_name = "Kennedy";
-campaignTrail_temp.running_mate_last_name = "Bumpers";
+campaignTrail_temp.running_mate_last_name = "For President!";
 e.election_json[0].fields.has_visits = 0;
 
 
