@@ -304,7 +304,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3512,
         "fields": {
             "question": 415,
-            "description": "Gerald Ford pardoned Richard Nixon, vetoed programs for the working class, and presided over an economy that has left too many Americans behind. America is ready for a fresh start, not more of the same."
+            "description": "Gerald Ford pardoned Richard Nixon, vetoed programs for the working class, and has presided over an economy that has left too many Americans behind. America is ready for a fresh start, not more of the same."
         }
     },
     {
