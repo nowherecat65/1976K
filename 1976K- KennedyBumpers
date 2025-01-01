@@ -7512,9 +7512,19 @@ campaignTrail_temp.answer_score_global_json = [
         "pk": 1442,
         "fields": {
             "answer": 3592,
-            "candidate": 92,
-            "affected_candidate": 92,
+            "candidate": 91,
+            "affected_candidate": 91,
             "global_multiplier": -0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 1442,
+        "fields": {
+            "answer": 3592,
+            "candidate": 91,
+            "affected_candidate": 92,
+            "global_multiplier": 0.01
         }
     },
     {
@@ -7525,6 +7535,16 @@ campaignTrail_temp.answer_score_global_json = [
             "candidate": 92,
             "affected_candidate": 92,
             "global_multiplier": -0.004
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 1443,
+        "fields": {
+            "answer": 3593,
+            "candidate": 91,
+            "affected_candidate": 91,
+            "global_multiplier": 0.005
         }
     },
     {
@@ -8396,7 +8416,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "fields": {
             "answer": 3592,
             "issue": 36,
-            "issue_score": 0.55,
+            "issue_score": -0.55,
             "issue_importance": 1
         }
     },
@@ -13817,7 +13837,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3595,
             "candidate": 91,
-            "answer_feedback": "This is not the best response for a Democrat."
+            "answer_feedback": "What the hell, Ted? Your base of liberal Democrats and young people really don't like your tone here at all."
         }
     },
     {
