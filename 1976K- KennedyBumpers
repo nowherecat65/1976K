@@ -592,7 +592,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3592,
         "fields": {
             "question": 430,
-            "description": "It is time for America to move past this issue. I will issue an immediate pardon if I am elected President."
+            "description": "It is time for America to move beyond this issue, and focus on the future. If I am elected President, I will issue a full and immediate pardon, because we must heal as a nation, and let go of divisions that hold us back!"
         }
     },
     {
@@ -600,15 +600,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3593,
         "fields": {
             "question": 430,
-            "description": "Millions of American men accepted their responsibilities and served admirably, but I can see the case for an eventual pardon. Perhaps towards the end of my term."
-        }
-    },
-    {
-        "model": "campaign_trail.answer",
-        "pk": 3594,
-        "fields": {
-            "question": 430,
-            "description": "I would need to think about this issue a little more before reaching a final decision."
+            "description": "Millions of American men accepted their responsibilities and served with honor, but I do understand the case for a pardon. It should be considered thoughtfully and, if it is to be granted, perhaps towards the end of my term."
         }
     },
     {
@@ -616,7 +608,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3595,
         "fields": {
             "question": 430,
-            "description": "Of course this war was controversial, but I oppose any pardon for people who evaded their military service. This would not send the right message in a future crisis."
+            "description": "Of course, this war was deeply controversial, but I firmly oppose any pardon for those who evaded their military service. It is essential that we uphold the principle of accountability, and granting such a pardon would send the wrong message."
         }
     },
     {
@@ -7041,8 +7033,8 @@ campaignTrail_temp.answer_score_global_json = [
         "fields": {
             "answer": 3598,
             "candidate": 91,
-            "affected_candidate": 92,
-            "global_multiplier": 0.008
+            "affected_candidate": 91,
+            "global_multiplier": -0.0181
         }
     },
     {
@@ -7550,9 +7542,9 @@ campaignTrail_temp.answer_score_global_json = [
         "pk": 1445,
         "fields": {
             "answer": 3599,
-            "candidate": 92,
-            "affected_candidate": 92,
-            "global_multiplier": -0.01
+            "candidate": 91,
+            "affected_candidate": 91,
+            "global_multiplier": -0.0185
         }
     },
     {
@@ -13834,7 +13826,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3596,
             "candidate": 91,
-            "answer_feedback": "This is the mainstream answer shared by all major politicians (unless you count a guy like Reagan)."
+            "answer_feedback": "An expected response. A majority of Americans and politicians support the amendment."
         }
     },
     {
@@ -13843,7 +13835,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3597,
             "candidate": 91,
-            "answer_feedback": "Even Gerald Ford supports this Amendment. Some wings of the party are pretty disappointed in this stance."
+            "answer_feedback": "Some of your female staff and supporters wish you could have been more forceful with this answer, as even Gerald Ford has made speeches stronger in support of the amendment."
         }
     },
     {
@@ -13852,7 +13844,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3598,
             "candidate": 91,
-            "answer_feedback": "Even Gerald Ford supports this Amendment. Some wings of the party are pretty disappointed in this stance."
+            "answer_feedback": "What a weird and sudden flip-flop for a culture warrior such as yourself! While some moderates in the South might be pleased with this turn, the majority of Americans-including women, don't. Be prepared to sleep on your couch for a few night..."
         }
     },
     {
@@ -13861,7 +13853,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3599,
             "candidate": 91,
-            "answer_feedback": "Even Gerald Ford supports this Amendment. It's good to win the labor vote, but there are other factors to consider as well."
+            "answer_feedback": "While labor unions are on board with this statement, women across America by and large don't. Joan is incredibly unhappy with you, and you better be ready to sleep on the couch for a few nights..."
         }
     },
     {
