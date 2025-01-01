@@ -624,7 +624,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3596,
         "fields": {
             "question": 431,
-            "description": "I support the passage of this Amendment, and think it is a good thing for America."
+            "description": "Ladies, of course, I support the passage of this Amendment. It has been too long since we have had proper equality here in America, and the E.R.A. is designed to give us that."
         }
     },
     {
@@ -632,7 +632,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3597,
         "fields": {
             "question": 431,
-            "description": "I don't really have a strong statement to make on this Amendment. This is an issue for Congress and the states to decide."
+            "description": "By and large, I support it, but I honestly don't have a strong statement to make on this Amendment. This is an issue for Congress and the states to decide, but if it were to come to my desk in the Oval Office, I would sign it."
         }
     },
     {
@@ -640,7 +640,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3598,
         "fields": {
             "question": 431,
-            "description": "We already have too many grounds for the federal government to interfere in the economy. This would add another new set of regulations that we can't afford."
+            "description": "While the fight for women's rights is a noble one, and one I support wholeheartedly, I believe we already have too many regulatory practices within the federal government that would make an amendment like this cause friction within the bureaucratic elements of our government."
         }
     },
     {
@@ -648,7 +648,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3599,
         "fields": {
             "question": 431,
-            "description": "I oppose this Amendment, as many labor unions do, because it would jeopardize protections for female workers in areas such as working hours or tasks."
+            "description": "Well, I actually by and large oppose this Amendment, because as many major labor unions have pointed out, it would threaten already long-withstanding protections for female workers in areas such as working hours or tasks."
         }
     },
     {
