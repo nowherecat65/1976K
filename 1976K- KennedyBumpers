@@ -115,7 +115,7 @@ campaignTrail_temp.questions_json = [
         "pk": 42911,
         "fields": {
             "priority": 3,
-            "description": "You’ve spent years in the Senate shaping policy. What do you say to those who argue you’re too tied to the past and that the country needs a fresh direction after Watergate and Vietnam?",
+            "description": "You’ve spent years in the Senate shaping policy, and are very visible. What do you say to those who believe you are too tied to the past and that the country needs a new direction after Watergate and Vietnam?",
             "likelihood": 1
         }
     },
