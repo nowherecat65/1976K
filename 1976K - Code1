@@ -199,7 +199,7 @@ campaignTrail_temp.candidate_json = [
             "electoral_victory_message": "''",
             "electoral_loss_message": "''",
             "no_electoral_majority_message": "''",
-            "description_as_running_mate": "<p>Lloyd Bentsen, a one-term Texas Senator who upset Ralph Yarborough six years ago, appeals to moderates and ''average voters'' with reservations about the party. His presence could boost the ticket in traditionally Democratic Texas. A former WWII Air Force pilot and Congressman elected in 1948, Bentsen’s conservative background positions him as a mainstream figure on the Kennedy ticket <p>Senator Bentsen would obviously help your numbers down in the Lone Star State, but it's also likely he could bring some Southerners and a few reluctant moderates on board. Bentsen may not be overtly charismatic, but he is seasoned and trusted.",
+            "description_as_running_mate": "<p>Lloyd Bentsen, a one-term Texas Senator who upset Ralph Yarborough six years ago, appeals to moderates and ''average voters'' with reservations about the party. His presence could boost the ticket in traditionally Democratic Texas. A former WWII Air Force pilot turned businessman, and Congressman elected in 1948 as a fiscally conservative Democrat.<p>Senator Bentsen would obviously help your numbers down in the Lone Star State, but it's also likely he could bring some Southerners and a few reluctant moderates on board. Bentsen may not be overtly charismatic, but he is seasoned and trusted.",
             "candidate_score": 0,
             "running_mate": true
         }
