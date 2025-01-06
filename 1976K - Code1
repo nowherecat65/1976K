@@ -411,7 +411,7 @@ campaignTrail_temp.running_mate_json = [
     }
 ]
 
-campaignTrail_temp.credits = ".theanswerisme"
+campaignTrail_temp.credits = ".theanswerisme & WNDIUA (Jimbo)"
 
 campaignTrail_temp.opponents_default_json = [
     {
