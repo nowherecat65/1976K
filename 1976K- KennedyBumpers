@@ -7124,7 +7124,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 3604,
             "candidate": 91,
             "affected_candidate": 92,
-            "global_multiplier": 0.0125
+            "global_multiplier": 0.0131
         }
     },
     {
@@ -14150,7 +14150,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3604,
             "candidate": 91,
-            "answer_feedback": "This is fairly moderate and fits neatly within the mainstream; at this point, most people in the nation seem to agree with you."
+            "answer_feedback": "This is fairly moderate, though slightly liberal, but it fits neatly within the mainstream; at this point, many people in the nation seem to agree with you."
         }
     },
     {
