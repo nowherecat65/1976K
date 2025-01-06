@@ -3170,7 +3170,7 @@ campaignTrail_temp.state_issue_score_json = [
         "fields": {
             "state": 258,
             "issue": 33,
-            "state_issue_score": -0.424577573,
+            "state_issue_score": -0.4998989898,
             "weight": 0.5
         }
     },
@@ -4779,7 +4779,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 91,
             "state": 247,
-            "state_multiplier": 0.88112112119851
+            "state_multiplier": 0.86123898998989898
         }
     },
     {
@@ -4878,7 +4878,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 91,
             "state": 258,
-            "state_multiplier": 1.05951
+            "state_multiplier": 1.038951
         }
     },
     {
@@ -4887,7 +4887,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 91,
             "state": 259,
-            "state_multiplier": 0.9975
+            "state_multiplier": 0.988995
         }
     },
     {
@@ -5238,7 +5238,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 92,
             "state": 247,
-            "state_multiplier": 0.9431125151298
+            "state_multiplier": 0.9499987125151298
         }
     },
     {
@@ -5346,7 +5346,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 92,
             "state": 259,
-            "state_multiplier": 0.854535
+            "state_multiplier": 0.877514535
         }
     },
     {
@@ -13624,7 +13624,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3515,
             "candidate": 91,
-            "answer_feedback": "This may be cynical, but many on your team believe you have little to gain by addressing Chappaquiddick. Taking a left-hook to President Ford, right in the jaw, might be the strategy you need."
+            "answer_feedback": "This may be cynical, but many on your team believe you have little to gain by addressing Chappaquiddick. Throwing a left-hook at President Ford, right in the jaw, might be the strategy you need."
         }
     },
     {
