@@ -9847,6 +9847,28 @@ campaignTrail_temp.answer_score_state_json = [
     },
     {
         "model": "campaign_trail.answer_score_state",
+        "pk": 12311,
+        "fields": {
+            "answer": 3531,
+            "state": 274,
+            "candidate": 91,
+            "affected_candidate": 91,
+            "state_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_state",
+        "pk": 12312,
+        "fields": {
+            "answer": 3532,
+            "state": 274,
+            "candidate": 91,
+            "affected_candidate": 91,
+            "state_multiplier": 0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_state",
         "pk": 12408,
         "fields": {
             "answer": 3590,
