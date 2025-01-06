@@ -680,7 +680,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3604,
         "fields": {
             "question": 433,
-            "description": "As President I will remain vigilant against the Soviet threat. Under no circumstances would I decrease our defense budget."
+            "description": "As President, I will ensure the defense of this nation is strong. But I believe we must take a hard look at the priorities we set for our military spending. We cannot afford to keep pouring money into an endless arms race while our people suffer from a lack of proper healthcare, education, and jobs."
         }
     },
     {
@@ -688,7 +688,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3605,
         "fields": {
             "question": 433,
-            "description": "I don't support cuts, to be sure, but neither do we need increases. We have made great strides in reducing tension with the Soviet Union."
+            "description": "I recognize the importance of maintaining a strong defense, but I also believe we need to be mindful about cutting too much, especially in areas that could leave us vulnerable. While we’ve made strides in easing tensions, we must ensure that we’re not jeopardizing our security."
         }
     },
     {
@@ -696,7 +696,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3606,
         "fields": {
             "question": 433,
-            "description": "Vietnam is over, and détente with the Soviet Union has reduced the need for massive defense expenditures. I believe that any attempt to reduce our deficit should include defense cuts."
+            "description": "The Cold War has shifted, and it’s time for America to adjust. While national security is obviously paramount, the era of unchecked military spending must end. The Soviet threat is real, but it is no longer the sole driver of our defense strategy. We can afford to make cuts. "
         }
     },
     {
@@ -7124,7 +7124,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 3604,
             "candidate": 91,
             "affected_candidate": 92,
-            "global_multiplier": 0.01
+            "global_multiplier": 0.0125
         }
     },
     {
@@ -7134,7 +7134,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 3604,
             "candidate": 91,
             "affected_candidate": 93,
-            "global_multiplier": 0.05
+            "global_multiplier": -0.02
         }
     },
     {
@@ -7144,7 +7144,37 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 3606,
             "candidate": 91,
             "affected_candidate": 93,
-            "global_multiplier": -0.07
+            "global_multiplier": -0.0351
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 1376,
+        "fields": {
+            "answer": 3605,
+            "candidate": 91,
+            "affected_candidate": 93,
+            "global_multiplier": -0.01
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 1376,
+        "fields": {
+            "answer": 3605,
+            "candidate": 91,
+            "affected_candidate": 91,
+            "global_multiplier": -0.0087
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 1376,
+        "fields": {
+            "answer": 3605,
+            "candidate": 91,
+            "affected_candidate": 92,
+            "global_multiplier": -0.0035
         }
     },
     {
@@ -7662,9 +7692,9 @@ campaignTrail_temp.answer_score_global_json = [
         "pk": 1449,
         "fields": {
             "answer": 3606,
-            "candidate": 92,
+            "candidate": 91,
             "affected_candidate": 92,
-            "global_multiplier": -0.015
+            "global_multiplier": 0.018875
         }
     },
     {
@@ -8646,7 +8676,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "fields": {
             "answer": 3604,
             "issue": 36,
-            "issue_score": -0.45,
+            "issue_score": 0.45,
             "issue_importance": 1
         }
     },
@@ -8657,7 +8687,7 @@ campaignTrail_temp.answer_score_issue_json = [
             "answer": 3605,
             "issue": 36,
             "issue_score": -0.1,
-            "issue_importance": 1
+            "issue_importance": 1.1
         }
     },
     {
@@ -8666,7 +8696,7 @@ campaignTrail_temp.answer_score_issue_json = [
         "fields": {
             "answer": 3606,
             "issue": 36,
-            "issue_score": 0.6,
+            "issue_score": 0.62,
             "issue_importance": 1
         }
     },
@@ -14110,7 +14140,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3604,
             "candidate": 91,
-            "answer_feedback": "On the balance, your party is surprised to hear you take this stance."
+            "answer_feedback": "This is fairly moderate and fits neatly within the mainstream; at this point, most people in the nation seem to agree with you."
         }
     },
     {
@@ -14119,7 +14149,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3605,
             "candidate": 91,
-            "answer_feedback": "This is a good, safe answer on the topic."
+            "answer_feedback": "It seems, perhaps due to Republican attacks, you’re hitting the brakes and being a bit more cautious with your positioning. This might be wise, if disappointing to your base."
         }
     },
     {
