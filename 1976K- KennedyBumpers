@@ -14452,7 +14452,7 @@ campaignTrail_temp.answer_feedback_json = [
         "pk": 1143,
         "fields": {
             "answer": 3593,
-            "candidate": 92,
+            "candidate": 91,
             "answer_feedback": "You've definitely enjoyed a day of generally positive press coverage with this stance. But behind the scenes, conservatives and veterans are upset."
         }
     },
