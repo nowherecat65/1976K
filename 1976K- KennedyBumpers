@@ -8016,8 +8016,8 @@ campaignTrail_temp.answer_score_issue_json = [
         "fields": {
             "answer": 3513,
             "issue": 32,
-            "issue_score": 0.8,
-            "issue_importance": 1
+            "issue_score": -0.25,
+            "issue_importance": 3.3
         }
     },
     {
@@ -8026,8 +8026,8 @@ campaignTrail_temp.answer_score_issue_json = [
         "fields": {
             "answer": 3514,
             "issue": 32,
-            "issue_score": 0.6,
-            "issue_importance": 1
+            "issue_score": -0.2,
+            "issue_importance": 3.3
         }
     },
     {
@@ -8036,8 +8036,8 @@ campaignTrail_temp.answer_score_issue_json = [
         "fields": {
             "answer": 3515,
             "issue": 32,
-            "issue_score": 0.5,
-            "issue_importance": 1
+            "issue_score": -0.15,
+            "issue_importance": 3.3
         }
     },
     {
