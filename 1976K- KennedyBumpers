@@ -112,6 +112,15 @@ campaignTrail_temp.questions_json = [
     },
     {
         "model": "campaign_trail.question",
+        "pk": 42911,
+        "fields": {
+            "priority": 3,
+            "description": "You’ve spent years in the Senate shaping policy. What do you say to those who argue you’re too tied to the past and that the country needs a fresh direction after Watergate and Vietnam?",
+            "likelihood": 1
+        }
+    },
+    {
+        "model": "campaign_trail.question",
         "pk": 429,
         "fields": {
             "priority": 3,
@@ -561,6 +570,22 @@ campaignTrail_temp.answers_json = [
         "fields": {
             "question": 429,
             "description": "Big cities have a higher social burden than most jurisdictions. It's only right that they should receive extra financial help to compensate."
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 35889,
+        "fields": {
+            "question": 42911,
+            "description": "Well, my family has made great sacrifices for this country, to make it a better place. In the time of Franklin Roosevelt, people knew we needed a leader with experience, but also with fresh resolve. I believe I can offer that too."
+        }
+    },
+    {
+        "model": "campaign_trail.answer",
+        "pk": 36889,
+        "fields": {
+            "question": 42911,
+            "description": "I reject the idea that I serve the establishment. In my time in the Senate, I’ve fought hard for change, and we’ve made progress. But we’ve faced a President who puts his fist down at every turn, blocking real progress. "
         }
     },
     {
@@ -6979,6 +7004,46 @@ campaignTrail_temp.answer_score_global_json = [
     },
     {
         "model": "campaign_trail.answer_score_global",
+        "pk": 1359,
+        "fields": {
+            "answer": 35889,
+            "candidate": 91,
+            "affected_candidate": 92,
+            "global_multiplier": 0.022
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 1359,
+        "fields": {
+            "answer": 35889,
+            "candidate": 91,
+            "affected_candidate": 91,
+            "global_multiplier": -0.012
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 1359,
+        "fields": {
+            "answer": 36889,
+            "candidate": 91,
+            "affected_candidate": 91,
+            "global_multiplier": -0.012
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 1359,
+        "fields": {
+            "answer": 36889,
+            "candidate": 91,
+            "affected_candidate": 92,
+            "global_multiplier": 0.022
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
         "pk": 1360,
         "fields": {
             "answer": 3590,
@@ -8498,6 +8563,26 @@ campaignTrail_temp.answer_score_issue_json = [
             "issue": 35,
             "issue_score": 0.75,
             "issue_importance": 1
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1159,
+        "fields": {
+            "answer": 35889,
+            "issue": 32,
+            "issue_score": -0.4,
+            "issue_importance": 2.3
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_issue",
+        "pk": 1159,
+        "fields": {
+            "answer": 36889,
+            "issue": 32,
+            "issue_score": -0.3,
+            "issue_importance": 2.3
         }
     },
     {
@@ -14043,6 +14128,24 @@ campaignTrail_temp.answer_feedback_json = [
             "answer": 3588,
             "candidate": 91,
             "answer_feedback": "This is a good liberal answer, but perhaps a bit too liberal."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 1036,
+        "fields": {
+            "answer": 35889,
+            "candidate": 91,
+            "answer_feedback": "There you go, invoking your family, but despite the sneering from the right-wing, while many might view you as an insider, the vast majority hold great affection for your family-and for you as well."
+        }
+    },
+    {
+        "model": "campaign_trail.answer_feedback",
+        "pk": 1036,
+        "fields": {
+            "answer": 36889,
+            "candidate": 91,
+            "answer_feedback": "This is a good way to push back against the accusation of being a Washington swamp monster, but Teddy, at the end of the day, you are one of the most famous men in politics, and dressing up as an outsider populist isn’t going to change that. "
         }
     },
     {
