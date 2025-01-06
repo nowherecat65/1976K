@@ -190,7 +190,7 @@ campaignTrail_temp.candidate_json = [
             "election": 10,
             "party": "Democrat",
             "state": "Texas",
-            "priority": 6,
+            "priority": 7,
             "description": "''",
             "color_hex": "#0000FF",
             "secondary_color_hex": "#90C0FF",
@@ -199,30 +199,7 @@ campaignTrail_temp.candidate_json = [
             "electoral_victory_message": "''",
             "electoral_loss_message": "''",
             "no_electoral_majority_message": "''",
-            "description_as_running_mate": "<p>Lloyd Bentsen is a one-term Senator from Texas who defeated Ralph Yarborough in a primary upset six years ago. He appeals to moderate Democrats and the "average voter" who may have reservations about the party. His presence could help the ticket in Texas, a traditionally Democratic state. A former Air Force pilot in World War II and a Congressman elected in 1948, Bentsen has a conservative background but would likely present himself as a mainstream figure on the Kennedy ticket. ",
-            "candidate_score": 0,
-            "running_mate": true
-        }
-    },
-    {
-        "model": "campaign_trail.candidate",
-        "pk": 97,
-        "fields": {
-            "first_name": "Russell",
-            "last_name": "Long",
-            "election": 10,
-            "party": "Democrat",
-            "state": "Louisiana",
-            "priority": 7,
-            "description": "''",
-            "color_hex": "#0000FF",
-            "secondary_color_hex": "#90C0FF",
-            "is_active": 0,
-            "image_url": "https://i.imgur.com/UOEdxXE.png",
-            "electoral_victory_message": "''",
-            "electoral_loss_message": "''",
-            "no_electoral_majority_message": "''",
-            "description_as_running_mate": "<p>Russell Long is the influential Senator from Louisiana and a member of the influential \"Long Family\" that dominates that Louisiana state politics. He has served as Senator since 1948 and is the chair of the influential Senate Finance Committee. He was an ally of Lyndon B. Johnson and his economic programs, despite opposition from his colleagues down south.<p>Being a Southerner, he hosts a complicated history on Civil Rights, and while he signed the Southern Manifesto, he has since renounced his previous views. Long would for better or worse cement yourself as an insider candidate, which could complicate your candidacy due to the \"Anti-Establishment\" mood the country holds following Watergate.",
+            "description_as_running_mate": "<p>Lloyd Bentsen is a one-term Senator from Texas who defeated Ralph Yarborough in a primary upset six years ago. He appeals to moderate Democrats and the ''average voter'' who may have reservations about the party. His presence could help the ticket in Texas, a traditionally Democratic state, and one that Jack won. A former Air Force pilot in World War II and a Congressman elected in 1948, Bentsen has a conservative background but would likely present himself as a mainstream figure on the Kennedy ticket. ",
             "candidate_score": 0,
             "running_mate": true
         }
