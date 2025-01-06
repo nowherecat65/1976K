@@ -5353,7 +5353,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 92,
             "state": 257,
-            "state_multiplier": 0.939987121
+            "state_multiplier": 0.959987121
         }
     },
     {
@@ -5425,7 +5425,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 92,
             "state": 265,
-            "state_multiplier": 0.97619981815129898
+            "state_multiplier": 0.99619981815129898
         }
     },
     {
@@ -5488,7 +5488,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 92,
             "state": 272,
-            "state_multiplier": 0.95516121199898989
+            "state_multiplier": 0.96611516121199898989
         }
     },
     {
@@ -14568,7 +14568,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3646,
             "candidate": 91,
-            "answer_feedback": "This is a pretty conservative answer for a Democrat. It sounds like something Ronald Reagan might say."
+            "answer_feedback": "You sound a bit reluctant, but overall you've stuck to your record and reaffirmed yourself as a liberal voice on the national stage."
         }
     },
     {
