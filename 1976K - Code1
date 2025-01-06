@@ -176,7 +176,7 @@ campaignTrail_temp.candidate_json = [
             "electoral_victory_message": "''",
             "electoral_loss_message": "''",
             "no_electoral_majority_message": "''",
-            "description_as_running_mate": "<p>Walter ''Fritz'' Mondale is a Senator from Minnesota, a protégé of Hubert H. Humphrey, and considered a strong, and liberal voice within the Democratic Party. He could bolster your campaign in Minnesota and across the Midwest, though it doesn’t seem like you’ll necessarily need the extra support there.<p>Fritz would bring regional balance to the ticket and offers a warm, natural, folksy personality that resonates strongly with most people, especially blue-collar voters. However, he is considered pretty liberal, and given your own reputation, that alignment might not be the most strategic choice.",
+            "description_as_running_mate": "<p>Walter ''Fritz'' Mondale is a Senator from Minnesota, a protégé of Hubert H. Humphrey, and considered a strong, and liberal voice within the Democratic Party. He could bolster your campaign in Minnesota and across the Midwest, though it doesn’t seem like you’ll necessarily need the extra support there.<p>Fritz would bring regional balance to the ticket, helping you out in the Midwest. He offers a warm, natural, folksy personality that resonates strongly with many people, especially blue-collar voters. However, he is considered quite liberal, and given your own reputation, that alignment might not be the most strategic choice.",
             "candidate_score": 0,
             "running_mate": true
         }
@@ -199,7 +199,7 @@ campaignTrail_temp.candidate_json = [
             "electoral_victory_message": "''",
             "electoral_loss_message": "''",
             "no_electoral_majority_message": "''",
-            "description_as_running_mate": "<p>Lloyd Bentsen is a one-term Senator from Texas who defeated Ralph Yarborough in a primary upset six years ago. He appeals to moderate Democrats and the ''average voter'' who may have reservations about the party. His presence could help the ticket in Texas, a traditionally Democratic state, and one that Jack won. A former Air Force pilot in World War II and a Congressman elected in 1948, Bentsen has a conservative background but would likely present himself as a mainstream figure on the Kennedy ticket. ",
+            "description_as_running_mate": "<p>Lloyd Bentsen is a one-term Senator from Texas who defeated Ralph Yarborough in a primary upset six years ago. He appeals to moderate Democrats and the ''average voter'' who may have reservations about the party. His presence could help the ticket in Texas, a traditionally Democratic state, and one that Jack won. A former Air Force pilot in World War II and a Congressman elected in 1948, Bentsen has a conservative background but would likely present himself as a mainstream figure on the Kennedy ticket. <p>Senator Bentsen would obviously help your numbers down in the Lone Star State and with Southerners broadly. That said, his selection might risk turning off your base.",
             "candidate_score": 0,
             "running_mate": true
         }
