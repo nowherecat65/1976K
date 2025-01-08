@@ -115,7 +115,7 @@ campaignTrail_temp.questions_json = [
         "pk": 42911,
         "fields": {
             "priority": 3,
-            "description": "You’ve spent years in the Senate shaping policy, and are very visible. What do you say to those who believe you are too tied to the past and that the country needs a new direction after Watergate and Vietnam?",
+            "description": "You’ve spent years in the Senate shaping policy and are highly visible. Many argue that the country needs a fresh start after Watergate and Vietnam. What do you say to those who believe you are too tied to the past?",
             "likelihood": 1
         }
     },
@@ -577,7 +577,7 @@ campaignTrail_temp.answers_json = [
         "pk": 35889,
         "fields": {
             "question": 42911,
-            "description": "Well, my family has made great sacrifices for this country, to make it a better place. In the time of Franklin Roosevelt, people knew we needed a leader with experience, but also with fresh resolve. I believe I can offer that too."
+            "description": "My family has always fought for justice and equality. Like Franklin Roosevelt, we need a leader who combines experience with a vision for the future. We can’t just move forward – we must move forward with purpose and resolve."
         }
     },
     {
@@ -585,7 +585,7 @@ campaignTrail_temp.answers_json = [
         "pk": 36889,
         "fields": {
             "question": 42911,
-            "description": "I reject the idea that I serve the establishment. In my time in the Senate, I’ve fought hard for change, and we’ve made progress. But we’ve faced a President who puts his fist down at every turn, blocking real progress. "
+            "description": "I’ve spent my time in the Senate fighting for working families, pushing for civil rights, and making real change. I’m not part of the establishment – I’m a man of progress. We need a President who will stand up against the forces that block us from moving forward. "
         }
     },
     {
@@ -4696,7 +4696,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 91,
             "state": 235,
-            "state_multiplier": 0.905114456
+            "state_multiplier": 0.9175114456
         }
     },
     {
@@ -4822,7 +4822,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 91,
             "state": 249,
-            "state_multiplier": 0.9481878787878
+            "state_multiplier": 0.96199881878787878
         }
     },
     {
