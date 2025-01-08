@@ -569,7 +569,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3588,
         "fields": {
             "question": 429,
-            "description": "Big cities have a higher social burden than most jurisdictions. It's only right that they should receive extra financial help to compensate."
+            "description": "I believe it's crucial to support our cities when they’re in need. They face unique challenges and should receive the help they deserve to keep moving forward."
         }
     },
     {
@@ -593,7 +593,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3589,
         "fields": {
             "question": 429,
-            "description": "We have to consider each case individually. New York was a one time thing, and they also had to make significant reforms before this loan was approved."
+            "description": "Every case should be judged on its own merits. New York was an extraordinary case, and they had to show they were committed to change before any assistance was granted."
         }
     },
     {
@@ -601,7 +601,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3590,
         "fields": {
             "question": 429,
-            "description": "I couldn't really comment until I saw what the specifics of the case would be."
+            "description": "I think we need to look at the specifics of each case. If the situation calls for it, and reforms are made, we can consider these loans."
         }
     },
     {
@@ -609,7 +609,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3591,
         "fields": {
             "question": 429,
-            "description": "These types of bailouts support big government, big labor machine politics at the expense of everyone else. There's no way I would support this kind of deal."
+            "description": "I don’t believe in bailing out those who refuse to make necessary reforms. We need to make sure that these measures are used responsibly and aren't just a handout to political machines."
         }
     },
     {
