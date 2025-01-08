@@ -4903,7 +4903,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 91,
             "state": 258,
-            "state_multiplier": 1.01998951
+            "state_multiplier": 1.00198951
         }
     },
     {
@@ -5056,7 +5056,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 91,
             "state": 275,
-            "state_multiplier": 0.957498989
+            "state_multiplier": 0.95112112117498989
         }
     },
     {
@@ -5119,7 +5119,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 91,
             "state": 282,
-            "state_multiplier": 0.985
+            "state_multiplier": 0.9799
         }
     },
     {
@@ -5362,7 +5362,7 @@ campaignTrail_temp.candidate_state_multiplier_json = [
         "fields": {
             "candidate": 92,
             "state": 258,
-            "state_multiplier": 1.219811121121998991121199495898
+            "state_multiplier": 1.2319811121121998991121199495898
         }
     },
     {
@@ -14163,7 +14163,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3592,
             "candidate": 91,
-            "answer_feedback": "This is a controversial answer, but as an outsider it could help feed your popularity."
+            "answer_feedback": "This is a pretty wishy-washy answer, but for such a contentious issue, it might be the way to go."
         }
     },
     {
@@ -14703,7 +14703,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 3593,
             "candidate": 91,
-            "answer_feedback": "You've definitely enjoyed a day of generally positive press coverage with this stance. But behind the scenes, conservatives and veterans are upset."
+            "answer_feedback": "Liberals, and your base of support, are pleased by this stance, but, sir, conservatives and veteran groups are not happy whatsoever."
         }
     },
     {
