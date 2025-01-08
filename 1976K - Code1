@@ -176,7 +176,7 @@ campaignTrail_temp.candidate_json = [
             "electoral_victory_message": "''",
             "electoral_loss_message": "''",
             "no_electoral_majority_message": "''",
-            "description_as_running_mate": "<p>Walter ''Fritz'' Mondale is a Senator from Minnesota, a protégé of Hubert H. Humphrey, and considered a strong, and liberal voice within the Democratic Party. He could bolster your campaign in Minnesota and across the Midwest, though it doesn’t seem like you’ll necessarily need the extra support there.<p>Fritz would bring regional balance to the ticket, helping you out in the Midwest. He offers a warm, natural, folksy personality that resonates strongly with many people, especially blue-collar voters. However, he is considered quite liberal, and given your own reputation, that alignment might not be the most strategic choice.",
+            "description_as_running_mate": "<p>Walter ''Fritz'' Mondale is a Senator from Minnesota, a protégé of Hubert H. Humphrey, and considered a strong, and liberal voice within the Democratic Party. He could bolster your campaign in Minnesota and across the Midwest, though it doesn’t seem like you’ll necessarily need the extra support there.<p>Beyond the regional balance, and help in the Midwest. Fritz offers a warm, natural, folksy personality that resonates strongly with many people, especially blue-collar voters. However, he is considered quite liberal, and given your own reputation, that alignment might not be the most strategic choice.",
             "candidate_score": 0,
             "running_mate": true
         }
