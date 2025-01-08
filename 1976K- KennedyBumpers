@@ -14146,7 +14146,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 35889,
             "candidate": 91,
-            "answer_feedback": "There you go, invoking your family, but despite the sneering from the right-wing, while many might view you as an insider, the vast majority hold great affection for your family-and for you as well."
+            "answer_feedback": "This is a fairly vague response. It seems unlikely you’ll ever fully win over those most distrustful of Washington, given your longstanding ties, but it still looks like you’ll pull this off."
         }
     },
     {
@@ -14155,7 +14155,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 36889,
             "candidate": 91,
-            "answer_feedback": "This is a good way to push back against the accusation of being a Washington swamp monster, but Teddy, at the end of the day, you are one of the most famous men in politics, and dressing up as an outsider populist isn’t going to change that. "
+            "answer_feedback": "This is a good way to push back against the accusation of being a Washington swamp monster, but Teddy, at the end of the day, you’re one of the most famous men in politics, no matter what you say."
         }
     },
     {
