@@ -577,7 +577,7 @@ campaignTrail_temp.answers_json = [
         "pk": 35889,
         "fields": {
             "question": 42911,
-            "description": "My family has always fought for justice and equality. Like Franklin Roosevelt, we need a leader who combines experience with a vision for the future. We can’t just move forward – we must move forward with purpose and resolve."
+            "description": "As we did during the Great Depression and other times of great need, we need a leader with both experience and a bold vision for a better future. We can't just move forward; we must move forward with conviction and resolve."
         }
     },
     {
@@ -585,7 +585,7 @@ campaignTrail_temp.answers_json = [
         "pk": 36889,
         "fields": {
             "question": 42911,
-            "description": "I’ve spent my time in the Senate fighting for working families, pushing for civil rights, and making real change. I’m not part of the establishment – I’m a man of progress. We need a President who will stand up against the forces that block us from moving forward. "
+            "description": "I’ve spent my time in the Senate fighting for working families, advocating for civil rights, and pushing for real change. I’m not part of the establishment, I’m a man of progress. We need a President who will stand up against those who block our progress. "
         }
     },
     {
