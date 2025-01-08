@@ -115,7 +115,7 @@ campaignTrail_temp.questions_json = [
         "pk": 42911,
         "fields": {
             "priority": 3,
-            "description": "You’ve spent years in the Senate shaping policy and are highly visible. Many argue that the country needs a fresh start after Watergate and Vietnam. What do you say to those who believe you are too tied to the past?",
+            "description": "You’ve spent years in the Senate shaping policy and are highly visible. Many argue the country needs a fresh start after Watergate and Vietnam, and, like it or not, you’re not exactly an outsider. What do you say to those who think you’re too tied to the past?",
             "likelihood": 1
         }
     },
