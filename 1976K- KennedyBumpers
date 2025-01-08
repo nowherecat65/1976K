@@ -14171,7 +14171,7 @@ campaignTrail_temp.answer_feedback_json = [
         "model": "campaign_trail.answer_feedback",
         "pk": 1038,
         "fields": {
-            "answer": 3592,
+            "answer": 3593,
             "candidate": 91,
             "answer_feedback": "This is a pretty wishy-washy answer, but for such a contentious issue, it might be the way to go."
         }
@@ -14711,7 +14711,7 @@ campaignTrail_temp.answer_feedback_json = [
         "model": "campaign_trail.answer_feedback",
         "pk": 1143,
         "fields": {
-            "answer": 3593,
+            "answer": 3592,
             "candidate": 91,
             "answer_feedback": "Liberals, and your base of support, are pleased by this stance, but, sir, conservatives and veteran groups are not happy whatsoever."
         }
