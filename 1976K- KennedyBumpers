@@ -713,7 +713,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3605,
         "fields": {
             "question": 433,
-            "description": "I recognize the importance of maintaining a strong defense, but I also believe we need to be mindful about cutting too much, especially in areas that could leave us vulnerable. While we’ve made strides in easing tensions, we must ensure that we’re not jeopardizing our security."
+            "description": "I recognize the importance of maintaining our defenses and making cuts, but I also believe we need to be mindful about cutting too much, especially in areas that could leave us vulnerable. While we’ve made strides in easing tensions, we must ensure that we’re not jeopardizing our security."
         }
     },
     {
@@ -7229,7 +7229,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 3605,
             "candidate": 91,
             "affected_candidate": 91,
-            "global_multiplier": -0.0087
+            "global_multiplier": -0.0177
         }
     },
     {
