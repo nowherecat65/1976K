@@ -6899,7 +6899,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 3514,
             "candidate": 91,
             "affected_candidate": 92,
-            "global_multiplier": 0.082
+            "global_multiplier": 0.0825
         }
     },
     {
@@ -6909,7 +6909,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 3514,
             "candidate": 91,
             "affected_candidate": 91,
-            "global_multiplier": -0.01
+            "global_multiplier": -0.0187
         }
     },
     {
@@ -6929,7 +6929,7 @@ campaignTrail_temp.answer_score_global_json = [
             "answer": 3515,
             "candidate": 91,
             "affected_candidate": 91,
-            "global_multiplier": -0.015
+            "global_multiplier": -0.0222
         }
     },
     {
@@ -6940,6 +6940,16 @@ campaignTrail_temp.answer_score_global_json = [
             "candidate": 91,
             "affected_candidate": 92,
             "global_multiplier": 0.075
+        }
+    },
+    {
+        "model": "campaign_trail.answer_score_global",
+        "pk": 1343,
+        "fields": {
+            "answer": 3513,
+            "candidate": 91,
+            "affected_candidate": 91,
+            "global_multiplier": -0.01
         }
     },
     {
