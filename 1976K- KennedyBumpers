@@ -321,7 +321,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3513,
         "fields": {
             "question": 416,
-            "description": "The Chappaquiddick tragedy was a painful moment in my life, something I’ve lived with every day, and I’ve taken responsibility for it. This election should be about the challenges facing the American people, not revisiting the past."
+            "description": "The Chappaquiddick tragedy was a painful chapter in my life, one I’ve carried with me every day, and for which I’ve taken responsibility. This election should focus on the challenges facing the American people, not on reopening old wounds."
         }
     },
     {
@@ -329,7 +329,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3514,
         "fields": {
             "question": 416,
-            "description": "I know questions about my judgment will arise, but I’ve spent my career working for the people and delivering results. This election cannout, and must not be about my past, it’s about who can tackle the challenges of today and tomorrow."
+            "description": "I know there will be questions about my judgment, but I've spent my career working for the people and delivering real results. This election cannot, and must not, be about my past. It's about choosing a leader who can tackle the challenges of today and build a brighter tomorrow."
         }
     },
     {
@@ -337,7 +337,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3515,
         "fields": {
             "question": 416,
-            "description": "Gerald Ford’s campaign is focused on my past because they can’t defend his record of pardoning Nixon, vetoing critical programs, and failing to address the struggles of everyday Americans. The voters deserve a real debate about leadership and the future."
+            "description": "Gerald Ford’s campaign is fixated on my past because they can’t defend his own record, pardoning Nixon, vetoing critical programs, and neglecting the struggles of everyday Americans. The voters deserve a real, and honest debate about leadership and the future."
         }
     },
     {
