@@ -489,7 +489,7 @@ campaignTrail_temp.answers_json = [
         "pk": 6344,
         "fields": {
             "question": 42277,
-            "description": "We must carry forward with a message of hope. The American people have lost faith in Washington, and frankly, I don’t blame them. But, our battle continues, and our great cause binds us together as a great people. It is a cause that stirs the heart, lifts the spirit, and drives us to build a better country, and world. I believe in our vision. I believe in our fight."
+            "description": "We must carry forward a message of hope. The American people have lost faith in Washington, and frankly, I don’t blame them. But our battle continues, and our great cause binds us together as one people. It is a cause that stirs the heart, lifts the spirit, and drives us to build a better country, and a better world. I believe in that vision. I believe in that fight."
         }
     },
     {
@@ -497,7 +497,7 @@ campaignTrail_temp.answers_json = [
         "pk": 6345,
         "fields": {
             "question": 42277,
-            "description": "We have an economy today that isn’t working for most Americans, especially the poor, the young, and the working families who carry this nation on their shoulders. I believe we must expand opportunity for all, create growth for all. And let me say this plainly: I will fight for, and I will sign, a universal healthcare bill. Mark my words. "
+            "description": "We have an economy today that isn’t working for most Americans, especially the poor, the young, and the working families who carry this nation on their backs. We must expand opportunity for all, and growth for all. And let me say this plainly: I will fight for, and I will sign, a universal healthcare bill. Mark my words. "
         }
     },
     {
@@ -505,7 +505,7 @@ campaignTrail_temp.answers_json = [
         "pk": 63451,
         "fields": {
             "question": 42277,
-            "description": "I want to thank the country tonight. During the past nearly year on the trail, I have met so many good Americans and seeing firsthand the strength and resilience that make this nation what it is. As your President, I will fight for your chance to succeed, for the promise of opportunity, and for the American Dream. That will be my job. "
+            "description": "I want to thank the country tonight. Over the past year on the trail, I’ve met so many good Americans, and I’ve seen firsthand the strength and resilience that make this nation what it is. As your President, I will fight for your chance to succeed, for the promise of opportunity, and for the American Dream. That will be my job. "
         }
     },
     {
