@@ -14149,7 +14149,7 @@ campaignTrail_temp.answer_feedback_json = [
         "fields": {
             "answer": 35314,
             "candidate": 91,
-            "answer_feedback": "Thankfully, your significant lead in the polls means the press mostly gives you a pass on this issue, but your primary rivals are not, sharply criticizing you for acting ''like a king'' or ''like LBJ'' by not intimately campaigning on the ground and relying upon your frontrunner status."
+            "answer_feedback": "Thankfully, your significant lead in the polls means the press mostly gives you a pass on this issue, but your primary rivals are not, sharply criticizing you for acting ''like a king'' by not intimately campaigning on the ground and relying upon your frontrunner status."
         }
     },
     {
