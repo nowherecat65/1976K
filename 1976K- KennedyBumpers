@@ -34,7 +34,7 @@ campaignTrail_temp.questions_json = [
         "pk": 42233,
         "fields": {
             "priority": 0,
-            "description": "(JANUARY 1976) Two and a half months after announcing your candidacy your campaign staff has still largely shielded you from interviews or anything perceived as hard-hitting. While the strategy has been to maintain your lead, with the contests approaching, there’s growing concern you may be taking the nomination for granted. Should we be shifting course? ",
+            "description": "(JANUARY 1976) Two and a half months after announcing your candidacy, your campaign staff has continued to shield you from interviews, or anything remotely hard-hitting. While the strategy has been to preserve your lead, with the early contests fast approaching, there’s growing concern you may be seen as taking the nomination for granted. Is it time to shift course?",
             "likelihood": 1
         }
     },
@@ -43,7 +43,7 @@ campaignTrail_temp.questions_json = [
         "pk": 42277,
         "fields": {
             "priority": 0,
-            "description": "The primary campaign twisted and turned, but it was over relatively quickly, and you were the presumptive nominee by early April, and now here you are at Madison Square Garden in New York City, just a day before your set to offically accept the Democratic Nomination. -- You and your team have already worked on some speeches, what approach will you take?  ",
+            "description": "The primary campaign twisted and turned, but it was over relatively quickly. You were the presumptive nominee by early April. Now here you are -- Madison Square Garden, New York City, just a day away from officially accepting the Democratic nomination. You and your team have been refining the speech for weeks, but now you’re at an impasse. What approach will you take? ",
             "likelihood": 1
         }
     },
@@ -52,7 +52,7 @@ campaignTrail_temp.questions_json = [
         "pk": 422,
         "fields": {
             "priority": 0,
-            "description": "You have selected Senator Dale Bumpers from Arkansas as your running mate. Why did you make the selection you did?  ",
+            "description": "After months of speculation in the press, and long discussions with your staff and team, you’ve selected Senator Dale Bumpers of Arkansas as your running mate. Why did you make this choice? ",
             "likelihood": 1
         }
     },
@@ -61,7 +61,7 @@ campaignTrail_temp.questions_json = [
         "pk": 415,
         "fields": {
             "priority": 1,
-            "description": "What will be your overall campaign strategy this year?",
+            "description": "You spent nearly the entire primary season as the frontrunner, but now, heading into the general election, your message feels a bit blurred. What will your overall campaign strategy be this fall?",
             "likelihood": 1
         }
     },
@@ -70,7 +70,7 @@ campaignTrail_temp.questions_json = [
         "pk": 416,
         "fields": {
             "priority": 2,
-            "description": "Though you were spared from directly addressing it during the primary campaign, the Ford campaign is now circulating a letter and running television advertisements questioning your judgment and character, especially regarding the Chappaquiddick scandal and your slothful, hedonistic reputation. How should we respond?",
+            "description": "Though you were spared from addressing it directly during the primaries, the Ford campaign is now circulating a letter and airing television ads questioning your judgment and character, zeroing in on Chappaquiddick, and painting you as a symbol of sloth, hedonism, and unchecked liberalism. How should we respond?",
             "likelihood": 1
         }
     },
@@ -88,7 +88,7 @@ campaignTrail_temp.questions_json = [
         "pk": 431,
         "fields": {
             "priority": 3,
-            "description": "Your status as a progressive icon is being put to the test right now. Female reporters have been hounding you for a few days, all with the same question: Do you support the ratification of the Equal Rights Amendment? While you've spoken out in favor of it before, you haven't made an exact statement yet. Would you like to?",
+            "description": "Your status as a progressive icon is being put to the test right now. Female reporters have been hounding you for days, all with the same question: Do you support the ratification of the Equal Rights Amendment? While you've spoken out in favor of it before, you surprisingly haven't made a direct statement yet. Would you like to?",
             "likelihood": 1
         }
     },
@@ -97,7 +97,7 @@ campaignTrail_temp.questions_json = [
         "pk": 444,
         "fields": {
             "priority": 3,
-            "description": "Do you support the Humphrey-Hawkins Full Employment Act?",
+            "description": "Congress is beginning debate on the liberal Humphrey-Hawkins Full Employment Act, backed by key labor leaders and Black legislators. Do you support its goals, and more importantly, are you prepared to publicly endorse it and campaign on it?",
             "likelihood": 1
         }
     },
@@ -115,7 +115,7 @@ campaignTrail_temp.questions_json = [
         "pk": 42911,
         "fields": {
             "priority": 3,
-            "description": "You’ve spent years in the Senate shaping policy and are highly visible. Many argue the country needs a fresh start after Watergate and Vietnam, and, like it or not, you’re not exactly an outsider. What do you say to those who think you’re too tied to the past?",
+            "description": "You’ve spent years in the Senate shaping policy and building visibility. But many argue the country needs a fresh start after Watergate and Vietnam -- and like it or not, you’re not exactly seen as an outsider. What do you say to those who think you’re too tied to the past?",
             "likelihood": 1
         }
     },
