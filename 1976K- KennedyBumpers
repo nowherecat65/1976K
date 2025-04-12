@@ -25,7 +25,7 @@ campaignTrail_temp.questions_json = [
         "pk": 422151,
         "fields": {
             "priority": 0,
-            "description": "(NOVEMBER 1975) You were already the frontrunner before the Boston announcement—and now, even more so. But tensions inside the campaign are already flaring. Some advisors urge you to write off the Iowa caucuses and focus on New Hampshire or Florida instead, while others are pushing for a 'general election' strategy this early on. The decision, however, is yours.",
+            "description": "(NOVEMBER 1975) You were already the frontrunner before the Boston announcement—and now, even more so. But tensions inside the campaign are already flaring. Some advisors urge you to write off the Iowa caucuses and focus on New Hampshire or Florida instead. The final decision, however, is yours.",
             "likelihood": 1
         }
     },
