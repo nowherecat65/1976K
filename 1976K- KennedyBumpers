@@ -15274,7 +15274,7 @@ endingPicker = (out, totv, aa, quickstats) => {
    }
    campaignTrail_temp.multiple_endings=true
 
-campaignTrail_temp.candidate_image_url = "https://i.postimg.cc/Y2PPZ2CB/TK.jpg";
+campaignTrail_temp.candidate_image_url = "https://i.postimg.cc/QCcnc1GX/tk76.jpg";
 campaignTrail_temp.running_mate_image_url = "https://i.imgur.com/7Iqz9AE.png";
 campaignTrail_temp.candidate_last_name = "Kennedy";
 campaignTrail_temp.running_mate_last_name = "For President!";
