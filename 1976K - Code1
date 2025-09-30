@@ -57,7 +57,7 @@ campaignTrail_temp.candidate_json = [
             "color_hex": "#3751D4",
             "secondary_color_hex": "#4947D5",
             "is_active": 1,
-            "image_url": "https://i.postimg.cc/Y2PPZ2CB/TK.jpg",
+            "image_url": "https://i.postimg.cc/QCcnc1GX/tk76.jpg",
             "electoral_victory_message": "<h3>Congratulations! You have won the 1976 Presidential Election.</h3><p>Hopefully you can make good on your promises to clean up Washington and change the political and moral culture of the country. If you are successful, there is no reason you cannot run for reelection in 1980. Just be wary of any economic problems, or of some foreign policy crisis that could dent your popularity.</p>",
             "electoral_loss_message": "<h3>Sorry, you have lost the 1976 Presidential Election.</h3><p>As an outsider candidate, this was really your moment to make an impact on American politics and to win a national election. The beltway gossip already has it that Ted Kennedy is the frontrunner for the 1980 nomination. Perhaps you can run again for Governor of Georgia, or make an impact in some other way.</p>",
             "no_electoral_majority_message": "<h3>Wow! You have won in a squeaker.</h3><p>While the Electoral College ended in a tie, the Democrats have a huge advantage in the House of Representatives and are sure to elect you in that manner. Hopefully the closeness of this election doesn't undermine your promises to clean up Washington and unite the people of this country.</p>",
